@@ -1,0 +1,21 @@
+#!/usr/bin/make -f
+
+TEXT_DOMAIN=$(shell sed -n 's/^Source: \(.*\)-l10n$$/\1/; t e; b; :e; p; q' debian/control)
+LANGS=$(shell echo po/*.po|sed -e 's,po/,,g' -e 's/.po//g')
+FMTPARAMS=--statistics
+
+%:
+	dh $@
+
+override_dh_auto_build:
+	sh -c 'a=0; for lang in $(LANGS); do msgfmt -o /dev/null -c po/$$lang.po || a=1; done; if [ $$a = 1 ]; then exit 1; fi'
+	msgfmt -o /dev/null -c po/$(TEXT_DOMAIN).pot
+	@for lang in $(LANGS) ; do \
+		targetdir="$(CURDIR)/debian/$(TEXT_DOMAIN)-l10n-`echo $$lang|tr [A-Z] [a-z]|tr -d _`/usr/share/locale/$$lang/LC_MESSAGES" ;\
+		[ -d "$$targetdir" ] || mkdir -p $$targetdir ; \
+		echo -n "$$lang.po: "; \
+		msgfmt -v $(FMTPARAMS) po/$$lang.po -o $$targetdir/$(TEXT_DOMAIN).mo || exit 1; \
+	done
+
+override_dh_prep:
+	@echo Skip dh_prep

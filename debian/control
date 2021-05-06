@@ -1,0 +1,119 @@
+Source: osso-games-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: osso-games-l10n-mr0
+Section: misc
+Architecture: all
+Provides: osso-games-l10n-mr
+Depends: osso-games-l10n-ruru, osso-games-l10n-frfr, osso-games-l10n-frca, osso-games-l10n-dadk, osso-games-l10n-itit, osso-games-l10n-svse, osso-games-l10n-nono, osso-games-l10n-fifi, osso-games-l10n-nlnl, osso-games-l10n-enus, osso-games-l10n-dede, osso-games-l10n-esmx, osso-games-l10n-eses, osso-games-l10n-cscz, osso-games-l10n-ptpt, osso-games-l10n-engb, osso-games-l10n-plpl
+Description: osso-games marketing release package
+ This is a metapackage for osso-games to pull all the l10n packages.
+ Application developers of osso-games should depend on
+ "osso-games-l10n-mr0 | osso-games-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: osso-games-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for osso-games (cs_CZ)
+ Language files for cs_CZ osso-games.
+
+Package: osso-games-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for osso-games (da_DK)
+ Language files for da_DK osso-games.
+
+Package: osso-games-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for osso-games (de_DE)
+ Language files for de_DE osso-games.
+
+Package: osso-games-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for osso-games (en_GB)
+ Language files for en_GB osso-games.
+
+Package: osso-games-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for osso-games (en_US)
+ Language files for en_US osso-games.
+
+Package: osso-games-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for osso-games (es_ES)
+ Language files for es_ES osso-games.
+
+Package: osso-games-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for osso-games (es_MX)
+ Language files for es_MX osso-games.
+
+Package: osso-games-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for osso-games (fi_FI)
+ Language files for fi_FI osso-games.
+
+Package: osso-games-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for osso-games (fr_CA)
+ Language files for fr_CA osso-games.
+
+Package: osso-games-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for osso-games (fr_FR)
+ Language files for fr_FR osso-games.
+
+Package: osso-games-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for osso-games (it_IT)
+ Language files for it_IT osso-games.
+
+Package: osso-games-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for osso-games (nl_NL)
+ Language files for nl_NL osso-games.
+
+Package: osso-games-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for osso-games (no_NO)
+ Language files for no_NO osso-games.
+
+Package: osso-games-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for osso-games (pl_PL)
+ Language files for pl_PL osso-games.
+
+Package: osso-games-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for osso-games (pt_PT)
+ Language files for pt_PT osso-games.
+
+Package: osso-games-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for osso-games (ru_RU)
+ Language files for ru_RU osso-games.
+
+Package: osso-games-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for osso-games (sv_SE)
+ Language files for sv_SE osso-games.

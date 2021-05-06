@@ -1,0 +1,226 @@
+osso-games-l10n (7.0) unstable; urgency=medium
+
+  * Initial Maemo Leste packaging
+
+ -- Ivan J. <parazyd@dyne.org>  Thu, 06 May 2021 21:45:46 +0200
+
+marketing-release (6.11+0m5) unstable; urgency=low
+
+  * This entry has been added by BIFH queue processor
+    Suffix +0m5 added to package revision
+
+ -- maciej Blomberg <ext-maciej.blomberg@nokia.com>  Thu, 02 Jul 2009 10:12:21 +0300
+
+marketing-release (6.11) unstable; urgency=low
+
+  * Rebuilding for modest-nokiamessaging-plugin
+  * Fixes: NB#123067 modest-nokiamessaging-plugin S3 Untranslated strings across the Nokia Messaging UI
+
+ -- Maciej Blomberg <ext-maciej.blomberg@nokia.com>  Thu, 02 Jul 2009 09:57:26 +0300
+
+marketing-release (6.10) unstable; urgency=low
+
+  * Added cs_CZ
+
+ -- Maciej Blomberg <ext-maciej.blomberg@nokia.com>  Tue, 02 Jun 2009 09:26:54 +0200
+
+marketing-release (6.9) unstable; urgency=low
+
+  * Rebuilding for as-config-applet
+
+ -- Maciej Blomberg <ext-maciej.blomberg@nokia.com>  Fri, 17 Apr 2009 03:21:33 +0200
+
+marketing-release (6.8) unstable; urgency=low
+
+  * Added pl_PL
+
+ -- Maciej Blomberg <ext-maciej.blomberg@nokia.com>  Wed, 01 Apr 2009 03:28:50 +0200
+
+marketing-release (6.7) unstable; urgency=low
+
+  * Removed pt_BR
+
+ -- Maciej Blomberg <ext-maciej.blomberg@nokia.com>  Mon, 23 Mar 2009 12:22:01 +0200
+
+marketing-release (6.6) unstable; urgency=low
+
+  * Rebuilding for policy
+
+ -- Maciej Blomberg <ext-maciej.blomberg@nokia.com>  Mon, 09 Mar 2009 02:22:01 +0200
+
+marketing-release (6.5) unstable; urgency=low
+
+  * Rebuilding for osso-tutorial
+
+ -- Maciej Blomberg <ext-maciej.blomberg@nokia.com>  Wed, 25 Feb 2009 18:30:41 +0200
+
+marketing-release (6.4) unstable; urgency=low
+
+  * Rebuilding for new domains
+
+ -- Maciej Blomberg <ext-maciej.blomberg@nokia.com>  Mon, 19 Jan 2009 12:14:48 +0200
+
+marketing-release (6.3) unstable; urgency=low
+
+  * Rebuilding for osso-fm-transmitter
+
+ -- Maciej Blomberg <ext-maciej.blomberg@nokia.com>  Mon, 17 Nov 2008 18:04:20 +0200
+
+marketing-release (6.2) unstable; urgency=low
+
+  * Rebuilding for osso-sharing-ui, osso-st-wide, osso-tv-out
+
+ -- Maciej Blomberg <ext-maciej.blomberg@nokia.com>  Mon, 06 Oct 2008 14:56:11 +0300
+
+marketing-release (6.1) unstable; urgency=low
+
+  * Rebuilding for osso-imageviewer-ui and osso-camera-ui
+
+ -- Mohammed Hassan <mohammed.2.hassan@nokia.com>  Wed, 27 Aug 2008 18:51:15 +0300
+
+marketing-release (6.0) unstable; urgency=low
+
+  * First build for Fremantle.
+
+ -- Mohammed Hassan <mohammed.2.hassan@nokia.com>  Mon, 11 Aug 2008 20:00:14 +0300
+
+marketing-release (5.2) unstable; urgency=low
+
+  * Rebuilding after changing how our packages are created.
+
+ -- Mohammed Hassan <mohammed.2.hassan@nokia.com>  Wed, 09 Jan 2008 16:10:37 +0200
+
+marketing-release (5.1) unstable; urgency=low
+
+  * Tighten the dependency on the corresponding l10n packages.
+
+ -- Mohammed Hassan <mohammed.2.hassan@nokia.com>  Mon, 19 Nov 2007 14:58:54 +0200
+
+marketing-release (5.0) unstable; urgency=low
+
+  * Initial release for diablo.
+
+ -- Mohammed Hassan <mohammed.2.hassan@nokia.com>  Fri, 02 Nov 2007 17:14:06 +0200
+
+marketing-release (4.9) unstable; urgency=low
+
+  * Rebuilding to drop osso-email
+
+ -- Mohammed Hassan <mohammed.2.hassan@nokia.com>  Tue, 11 Sep 2007 16:42:09 +0300
+
+marketing-release (4.8) unstable; urgency=low
+
+  * Rebuilding to add hildon-desktop
+
+ -- Lee Metcalfe <lee.metcalfe@nokia.com>  Tue, 28 Aug 2007 15:05:11 +0300
+
+marketing-release (4.7) unstable; urgency=low
+
+  * Rebuilding to add osso-email-old
+
+ -- Mohammed Hassan <mohammed.2.hassan@nokia.com>  Mon, 20 Aug 2007 12:34:20 +0300
+
+marketing-release (4.6) unstable; urgency=low
+
+  * Oops. 4.5 is already there.
+
+ -- Mohammed Hassan <mohammed.2.hassan@nokia.com>  Mon, 06 Aug 2007 17:36:22 +0300
+
+marketing-release (4.5) unstable; urgency=low
+
+  * Dummy changelog entry just to cause a package rebuild to test the new tools.
+
+ -- Mohammed Hassan <mohammed.2.hassan@nokia.com>  Mon, 06 Aug 2007 17:35:22 +0300
+
+marketing-release (4.4) unstable; urgency=low
+
+  * Add a fake Provides: osso-application-installer-* to get the thing in.
+    This will break hildon-application-manager but I have no other option
+
+ -- Mohammed Hassan <mohammed.2.hassan@nokia.com>  Mon, 18 Jun 2007 15:10:59 +0300
+
+marketing-release (4.3) unstable; urgency=low
+
+  * Renamed osso-application-installer to hildon-application-manager
+
+ -- Mohammed Hassan <mohammed.2.hassan@nokia.com>  Tue, 12 Jun 2007 13:00:02 +0300
+
+marketing-release (4.2) unstable; urgency=low
+
+  * Rebuild to add hildon-application-manager-extras
+
+ -- Mohammed Hassan <mohammed.2.hassan@nokia.com>  Wed, 06 Jun 2007 17:39:14 +0300
+
+marketing-release (4.1) unstable; urgency=low
+
+  * Drop the mr1 generation.
+    We don't needed anymore as we are generating the public ones separately.
+  * Added myself to the copyright file and updated the copyright year
+  * Modified the description a bit.
+  * Added myself as the maintainer.
+  * Bumped Standards-Version to 3.7.2
+  * Added an empty "binary-arch" to shut lintian up.
+  * Added a ccopyright file to the built packages.
+
+ -- Mohammed Hassan <mohammed.2.hassan@nokia.com>  Tue, 29 May 2007 16:09:27 +0300
+
+marketing-release (4.0) unstable; urgency=low
+
+  * We are rebuilding this:
+    - Bump the version to 4.0 as OSSO 1.1 packages will be 4.x
+    - Fised my name for the previous log entry.
+  * Added:
+    - osso-applet-bluetooth-keyboard
+    - osso-cities
+    - osso-countries
+    - osso-location-ui
+
+ -- Mohammed Hassan <mohammed.2.hassan@nokia.com>  Wed, 16 May 2007 14:15:37 +0300
+
+marketing-release (3.5) unstable; urgency=low
+
+  * Bump the version number so we can get it in for 1.1. We have to fix this later.
+
+ -- Mohammed Hassan <mohammed.2.hassan@nokia.com>  Thu,  5 Apr 2007 10:52:48 +0300
+
+marketing-release (3.4) unstable; urgency=low
+
+  * A clean up for the package
+
+ -- Aki Honkasuo <ext-aki.honkasuo@nokia.com>  Tue, 24 Oct 2006 17:46:50 +0300
+
+marketing-release (3.3) unstable; urgency=low
+
+  * Added osso-uri-l10n
+
+ -- Aki Honkasuo <ext-aki.honkasuo@nokia.com>  Tue, 24 Oct 2006 16:54:16 +0300
+
+marketing-release (3.2) unstable; urgency=low
+
+  * Fix a bug: sv_SE was not included in language list
+
+ -- Hiep Trinh <ext-hiep.trinh-hong@nokia.com>  Mon, 03 Jul 2006 11:48:28 +0300
+ 
+marketing-release (3.1) unstable; urgency=low
+
+  * new text domain: osso-video-invitation
+
+ -- Hiep Trinh <ext-hiep.trinh-hong@nokia.com>  Thu, 22 Jun 2006 13:09:02 +0300
+ 
+marketing-release (3.0) unstable; urgency=low
+
+  * updated new languages
+
+ -- Hiep Trinh <ext-hiep.trinh-hong@nokia.com>  Fri, 09 Jun 2006 12:01:13 +0300
+ 
+marketing-release (0.2) unstable; urgency=low
+
+  * language update
+
+ -- Riku Voipio <nchip@localhost.localdomain>  Wed,  1 Mar 2006 16:29:33 +0200
+
+marketing-release (0.1) unstable; urgency=low
+
+  * Initial release
+
+ -- Riku Voipio <ext-riku.voipio@nokia.com>  Wed, 15 Feb 2006 12:49:52 +0200

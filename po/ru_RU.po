@@ -1,0 +1,496 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-games 20090202110755\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.02 11:07+0200\n"
+"PO-Revision-Date: 2009.02.02 11:07+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "game_ap_blocks_name"
+msgstr "Blocks"
+
+msgid "game_ap_chess_name"
+msgstr "Chess"
+
+msgid "game_ap_mahjong_name"
+msgstr "Mahjong"
+
+msgid "game_ap_marbles_name"
+msgstr "Marbles"
+
+msgid "game_ap_startup_name"
+msgstr "Стартовое окно"
+
+msgid "game_bd_blocks_main_exit_to_menu"
+msgstr "Выход в меню"
+
+msgid "game_bd_blocks_main_restart"
+msgstr "Заново"
+
+msgid "game_bd_change_level_cancel"
+msgstr "Нет"
+
+msgid "game_bd_change_level_ok"
+msgstr "Да"
+
+msgid "game_bd_chess_end_game_ok"
+msgstr "OK"
+
+msgid "game_bd_chess_promote_pawn_ok"
+msgstr "OK"
+
+msgid "game_bd_lmarbles_congratulations_ok"
+msgstr "OK"
+
+msgid "game_bd_mahjong_end_game_ok"
+msgstr "OK"
+
+msgid "game_bd_mahjong_high_scores_close"
+msgstr "Закрыть"
+
+msgid "game_bd_reset_game_progress_cancel"
+msgstr "Нет"
+
+msgid "game_bd_reset_game_progress_ok"
+msgstr "Да"
+
+msgid "game_bd_restart_game_cancel"
+msgstr "Нет"
+
+msgid "game_bd_restart_game_ok"
+msgstr "Да"
+
+msgid "game_bu_mahjong_settings_high_scores"
+msgstr "Лучшее время"
+
+msgid "game_bv_startup_continue"
+msgstr "Продолжить"
+
+msgid "game_bv_startup_play"
+msgstr "Начать"
+
+msgid "game_bv_startup_restart"
+msgstr "Заново"
+
+msgid "game_fi_blocks_end_game_description"
+msgstr ""
+"Выберите Заново\n"
+" для новой попытки"
+
+msgid "game_fi_blocks_main_level"
+msgstr "Уровень"
+
+msgid "game_fi_blocks_main_lines"
+msgstr "Линии"
+
+msgid "game_fi_blocks_main_next"
+msgstr "Далее"
+
+msgid "game_fi_blocks_main_score"
+msgstr "Счет"
+
+msgid "game_fi_blocks_settings_difficulty"
+msgstr "Скорость падения блоков"
+
+msgid "game_fi_blocks_settings_noise_height"
+msgstr "Начальная высота"
+
+msgid "game_fi_blocks_settings_noise_level"
+msgstr "Начальная плотность"
+
+msgid "game_fi_chess_computer_title"
+msgstr "Компьютер"
+
+msgid "game_fi_chess_end_game_description%s"
+msgstr "Шах и мат - %s победил!"
+
+msgid "game_fi_chess_end_game_tie_description"
+msgstr "Пат - ничья"
+
+msgid "game_fi_chess_player_1_title"
+msgstr "Игрок 1"
+
+msgid "game_fi_chess_player_2_title"
+msgstr "Игрок 2"
+
+msgid "game_fi_chess_promote_pawn_description"
+msgstr "Заменить на:"
+
+msgid "game_fi_chess_settings_human"
+msgstr "Игрок 1"
+
+msgid "game_fi_chess_settings_legal_moves"
+msgstr "Показать возможные ходы"
+
+msgid "game_fi_chess_settings_opponent"
+msgstr "Партнер"
+
+msgid "game_fi_chess_settings_sound"
+msgstr "Звуковые эффекты"
+
+msgid "game_fi_lmarbles_congratulations_description"
+msgstr "Игра успешно завершена!"
+
+msgid "game_fi_lmarbles_main_chapter_level"
+msgstr "Сюжет %d, уровень %d"
+
+msgid "game_fi_lmarbles_main_high_score"
+msgstr "Рекорд: %d"
+
+msgid "game_fi_lmarbles_main_level_bonus"
+msgstr "Премия за уровень:"
+
+msgid "game_fi_lmarbles_main_move_bonus"
+msgstr "Премия за ход:"
+
+msgid "game_fi_lmarbles_main_moves"
+msgstr "Ходов: %d"
+
+msgid "game_fi_lmarbles_main_score"
+msgstr "Счет: %d"
+
+msgid "game_fi_lmarbles_main_total_score"
+msgstr "Общий счет:"
+
+msgid "game_fi_lmarbles_settings_difficulty"
+msgstr "Уровень сложности"
+
+msgid "game_fi_lmarbles_settings_sound"
+msgstr "Звуковые эффекты"
+
+msgid "game_fi_mahjong_end_game_description%s%.2d%.2d%.2d%.2d"
+msgstr ""
+"Доска: %s\n"
+"Доска очищена за %.2d:%.2d\n"
+"\n"
+"Лучшее время: %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description2%s%.2d%.2d%.2d%.2d"
+msgstr ""
+"Доска: %s\n"
+"Доска очищена за %.2d:%.2d\n"
+"\n"
+"Новый рекорд!\n"
+"Предыдущее лучшее время: %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description3%s%.2d%.2d"
+msgstr ""
+"Доска: %s\n"
+"Доска очищена за %.2d:%.2d\n"
+"\n"
+"Новый рекорд!"
+
+msgid "game_fi_mahjong_game_board_1"
+msgstr "Стандартная"
+
+msgid "game_fi_mahjong_game_board_2"
+msgstr "Цветок лотоса"
+
+msgid "game_fi_mahjong_game_board_3"
+msgstr "Соединенный крест"
+
+msgid "game_fi_mahjong_game_board_4"
+msgstr "Стены пирамиды"
+
+msgid "game_fi_mahjong_game_board_5"
+msgstr "Крестики-нолики"
+
+msgid "game_fi_mahjong_game_board_6"
+msgstr "Облако"
+
+msgid "game_fi_mahjong_game_board_7"
+msgstr "Красный дракон"
+
+msgid "game_fi_mahjong_game_board_8"
+msgstr "Четыре моста"
+
+msgid "game_fi_mahjong_settings_board"
+msgstr "Доска"
+
+msgid "game_fi_mahjong_settings_sound"
+msgstr "Звуковые эффекты"
+
+msgid "game_ia_startup_not_started"
+msgstr "Игра не начата"
+
+msgid "game_ia_startup_paused"
+msgstr "Игра приостановлена"
+
+msgid "game_ib_changes_effect_next_game"
+msgstr "Изменения вступят в силу со следующей игры"
+
+msgid "game_ib_chess_check"
+msgstr "Шах!"
+
+msgid "game_ib_chess_check_mate"
+msgstr "Мат!"
+
+msgid "game_ib_not_available"
+msgstr "Недоступен"
+
+msgid "game_me_blocks_main_menu_game"
+msgstr "Игра"
+
+msgid "game_me_blocks_menu_game_play"
+msgstr "Начать"
+
+msgid "game_me_blocks_menu_game_restart"
+msgstr "Заново"
+
+msgid "game_me_chess_main_menu_game"
+msgstr "Игра"
+
+msgid "game_me_chess_main_menu_recent"
+msgstr "Недавние"
+
+msgid "game_me_chess_main_menu_settings"
+msgstr "Параметры"
+
+msgid "game_me_chess_menu_game_open"
+msgstr "Открыть"
+
+msgid "game_me_chess_menu_game_play"
+msgstr "Начать"
+
+msgid "game_me_chess_menu_game_restart"
+msgstr "Заново"
+
+msgid "game_me_chess_menu_game_save"
+msgstr "Сохранить"
+
+msgid "game_me_chess_menu_game_save_as"
+msgstr "Сохранить как"
+
+msgid "game_me_chess_menu_settings_human"
+msgstr "Игрок 1"
+
+msgid "game_me_chess_menu_settings_human_black"
+msgstr "Черные"
+
+msgid "game_me_chess_menu_settings_human_white"
+msgstr "Белые"
+
+msgid "game_me_chess_menu_settings_legal_moves"
+msgstr "Показать возможные ходы"
+
+msgid "game_me_chess_menu_settings_opponent"
+msgstr "Партнер"
+
+msgid "game_me_chess_menu_settings_opponent_1"
+msgstr "Легкий"
+
+msgid "game_me_chess_menu_settings_opponent_2"
+msgstr "Средний"
+
+msgid "game_me_chess_menu_settings_opponent_3"
+msgstr "Продвинутый"
+
+msgid "game_me_chess_menu_settings_opponent_4"
+msgstr "Эксперт"
+
+msgid "game_me_chess_menu_settings_opponent_human"
+msgstr "Игрок 2"
+
+msgid "game_me_chess_menu_settings_sound"
+msgstr "Звук"
+
+msgid "game_me_lmarbles_main_menu_game"
+msgstr "Игра"
+
+msgid "game_me_lmarbles_main_menu_settings"
+msgstr "Параметры"
+
+msgid "game_me_lmarbles_menu_game_play"
+msgstr "Начать"
+
+msgid "game_me_lmarbles_menu_game_restart"
+msgstr "Заново"
+
+msgid "game_me_lmarbles_menu_settings_brainstorm"
+msgstr "Мозговой штурм"
+
+msgid "game_me_lmarbles_menu_settings_easy"
+msgstr "Легкий"
+
+msgid "game_me_lmarbles_menu_settings_hard"
+msgstr "Продвинутый"
+
+msgid "game_me_lmarbles_menu_settings_normal"
+msgstr "Обычный"
+
+msgid "game_me_lmarbles_menu_settings_reset"
+msgstr "Сброс"
+
+msgid "game_me_lmarbles_menu_settings_reset_progress"
+msgstr "Сбросить результат игры"
+
+msgid "game_me_lmarbles_menu_settings_sound"
+msgstr "Звук"
+
+msgid "game_me_mahjong_main_menu_board"
+msgstr "Доска"
+
+msgid "game_me_mahjong_main_menu_game"
+msgstr "Игра"
+
+msgid "game_me_mahjong_main_menu_settings"
+msgstr "Параметры"
+
+msgid "game_me_mahjong_main_menu_tools"
+msgstr "Инструменты"
+
+msgid "game_me_mahjong_menu_board_1"
+msgstr "Стандартная"
+
+msgid "game_me_mahjong_menu_board_2"
+msgstr "Цветок лотоса"
+
+msgid "game_me_mahjong_menu_board_3"
+msgstr "Соединенный крест"
+
+msgid "game_me_mahjong_menu_board_4"
+msgstr "Стены пирамиды"
+
+msgid "game_me_mahjong_menu_board_5"
+msgstr "Крестики-нолики"
+
+msgid "game_me_mahjong_menu_board_6"
+msgstr "Облако"
+
+msgid "game_me_mahjong_menu_board_7"
+msgstr "Красный дракон"
+
+msgid "game_me_mahjong_menu_board_8"
+msgstr "Четыре моста"
+
+msgid "game_me_mahjong_menu_game_play"
+msgstr "Начать"
+
+msgid "game_me_mahjong_menu_game_restart"
+msgstr "Заново"
+
+msgid "game_me_mahjong_menu_settings_sound"
+msgstr "Звук"
+
+msgid "game_me_mahjong_menu_tools_high_scores"
+msgstr "Лучшее время"
+
+msgid "game_me_main_menu_close"
+msgstr "Закрыть"
+
+msgid "game_nc_change_level"
+msgstr "Войти на уровень %d сюжета %d?"
+
+msgid "game_nc_reset_game_progress"
+msgstr ""
+"При сбросе параметров игры все открытые уровни будут закрыты. Продолжить?"
+
+msgid "game_nc_restart_game"
+msgstr "Начать новую игру?"
+
+msgid "game_ni_unsupported_file%s"
+msgstr ""
+"Не удается открыть %s.\n"
+"Формат файла не поддерживается."
+
+msgid "game_ti_blocks_end_game_title"
+msgstr "Игра окончена"
+
+msgid "game_ti_chess_end_game_title"
+msgstr "Игра окончена"
+
+msgid "game_ti_chess_promote_pawn_title"
+msgstr "Замена пешки"
+
+msgid "game_ti_lmarbles_congratulations_title"
+msgstr "Поздравляем!"
+
+msgid "game_ti_load_game_title"
+msgstr "Загрузить игру"
+
+msgid "game_ti_mahjong_end_game_title"
+msgstr "Игра окончена"
+
+msgid "game_ti_mahjong_high_scores_date"
+msgstr "Дата"
+
+msgid "game_ti_mahjong_high_scores_level"
+msgstr "Доска"
+
+msgid "game_ti_mahjong_high_scores_time"
+msgstr "Время"
+
+msgid "game_ti_mahjong_high_scores_title"
+msgstr "Лучшее время"
+
+msgid "game_ti_save_game_title"
+msgstr "Сохранить игру"
+
+msgid "game_va_chess_settings_human_black"
+msgstr "Черные"
+
+msgid "game_va_chess_settings_human_white"
+msgstr "Белые"
+
+msgid "game_va_chess_settings_opponent_easy"
+msgstr "Легкий"
+
+msgid "game_va_chess_settings_opponent_expert"
+msgstr "Эксперт"
+
+msgid "game_va_chess_settings_opponent_hard"
+msgstr "Продвинутый"
+
+msgid "game_va_chess_settings_opponent_human"
+msgstr "Игрок 2"
+
+msgid "game_va_chess_settings_opponent_medium"
+msgstr "Средний"
+
+msgid "game_va_lmarbles_settings_difficulty_1"
+msgstr "Легкий"
+
+msgid "game_va_lmarbles_settings_difficulty_2"
+msgstr "Обычный"
+
+msgid "game_va_lmarbles_settings_difficulty_3"
+msgstr "Продвинутый"
+
+msgid "game_va_lmarbles_settings_difficulty_4"
+msgstr "Мозг. штурм"
+
+msgid "game_va_mahjong_settings_board_1"
+msgstr "Стандартная"
+
+msgid "game_va_mahjong_settings_board_2"
+msgstr "Цветок лотоса"
+
+msgid "game_va_mahjong_settings_board_3"
+msgstr "Соединенный крест"
+
+msgid "game_va_mahjong_settings_board_4"
+msgstr "Стены пирамиды"
+
+msgid "game_va_mahjong_settings_board_5"
+msgstr "Крестики-нолики"
+
+msgid "game_va_mahjong_settings_board_6"
+msgstr "Облако"
+
+msgid "game_va_mahjong_settings_board_7"
+msgstr "Красный дракон"
+
+msgid "game_va_mahjong_settings_board_8"
+msgstr "Четыре моста"
+
+msgid "sfil_va_save_object_name_stub_chess"
+msgstr "Chess"
+
+msgid "sfil_va_select_object_no_objects_games"
+msgstr "(нет игр)"

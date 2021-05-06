@@ -1,0 +1,493 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-games 20090202110755\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.02 11:07+0200\n"
+"PO-Revision-Date: 2009.02.02 11:07+0200\n"
+"Last-Translator:\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "game_ap_blocks_name"
+msgstr "Blocks"
+
+msgid "game_ap_chess_name"
+msgstr "Chess"
+
+msgid "game_ap_mahjong_name"
+msgstr "Mahjong"
+
+msgid "game_ap_marbles_name"
+msgstr "Marbles"
+
+msgid "game_ap_startup_name"
+msgstr "Mise en route"
+
+msgid "game_bd_blocks_main_exit_to_menu"
+msgstr "Revenir au menu"
+
+msgid "game_bd_blocks_main_restart"
+msgstr "Relancer"
+
+msgid "game_bd_change_level_cancel"
+msgstr "Non"
+
+msgid "game_bd_change_level_ok"
+msgstr "Oui"
+
+msgid "game_bd_chess_end_game_ok"
+msgstr "OK"
+
+msgid "game_bd_chess_promote_pawn_ok"
+msgstr "OK"
+
+msgid "game_bd_lmarbles_congratulations_ok"
+msgstr "OK"
+
+msgid "game_bd_mahjong_end_game_ok"
+msgstr "OK"
+
+msgid "game_bd_mahjong_high_scores_close"
+msgstr "Fermer"
+
+msgid "game_bd_reset_game_progress_cancel"
+msgstr "Non"
+
+msgid "game_bd_reset_game_progress_ok"
+msgstr "Oui"
+
+msgid "game_bd_restart_game_cancel"
+msgstr "Non"
+
+msgid "game_bd_restart_game_ok"
+msgstr "Oui"
+
+msgid "game_bu_mahjong_settings_high_scores"
+msgstr "Meilleurs temps"
+
+msgid "game_bv_startup_continue"
+msgstr "Continuer"
+
+msgid "game_bv_startup_play"
+msgstr "Jouer"
+
+msgid "game_bv_startup_restart"
+msgstr "Relancer"
+
+msgid "game_fi_blocks_end_game_description"
+msgstr "Taper sur 'Relancer' pour réessayer"
+
+msgid "game_fi_blocks_main_level"
+msgstr "Niveau"
+
+msgid "game_fi_blocks_main_lines"
+msgstr "Lignes"
+
+msgid "game_fi_blocks_main_next"
+msgstr "Suivant"
+
+msgid "game_fi_blocks_main_score"
+msgstr "Score"
+
+msgid "game_fi_blocks_settings_difficulty"
+msgstr "Vitesse des blocs"
+
+msgid "game_fi_blocks_settings_noise_height"
+msgstr "Hauteur de démarrage"
+
+msgid "game_fi_blocks_settings_noise_level"
+msgstr "Densité de démarrage"
+
+msgid "game_fi_chess_computer_title"
+msgstr "Ordinateur"
+
+msgid "game_fi_chess_end_game_description%s"
+msgstr "Échec et mat – %s a gagné !"
+
+msgid "game_fi_chess_end_game_tie_description"
+msgstr "Pat – Égalité"
+
+msgid "game_fi_chess_player_1_title"
+msgstr "Joueur 1"
+
+msgid "game_fi_chess_player_2_title"
+msgstr "Joueur 2"
+
+msgid "game_fi_chess_promote_pawn_description"
+msgstr "Promouvoir en :"
+
+msgid "game_fi_chess_settings_human"
+msgstr "Joueur 1"
+
+msgid "game_fi_chess_settings_legal_moves"
+msgstr "Afficher coups autorisés"
+
+msgid "game_fi_chess_settings_opponent"
+msgstr "Adversaire"
+
+msgid "game_fi_chess_settings_sound"
+msgstr "Effets sonores"
+
+msgid "game_fi_lmarbles_congratulations_description"
+msgstr "Partie terminée avec succès !"
+
+msgid "game_fi_lmarbles_main_chapter_level"
+msgstr "Chapitre %d, niveau %d"
+
+msgid "game_fi_lmarbles_main_high_score"
+msgstr "Meilleur score : %d"
+
+msgid "game_fi_lmarbles_main_level_bonus"
+msgstr "Bonus niveau :"
+
+msgid "game_fi_lmarbles_main_move_bonus"
+msgstr "Bonus coup :"
+
+msgid "game_fi_lmarbles_main_moves"
+msgstr "Coups : %d"
+
+msgid "game_fi_lmarbles_main_score"
+msgstr "Score : %d"
+
+msgid "game_fi_lmarbles_main_total_score"
+msgstr "Score total :"
+
+msgid "game_fi_lmarbles_settings_difficulty"
+msgstr "Niveau de difficulté"
+
+msgid "game_fi_lmarbles_settings_sound"
+msgstr "Effets sonores"
+
+msgid "game_fi_mahjong_end_game_description%s%.2d%.2d%.2d%.2d"
+msgstr ""
+"Tableau : %s\n"
+"Tableau terminé en %.2d:%.2d\n"
+"\n"
+"Meilleur temps pour ce tableau : %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description2%s%.2d%.2d%.2d%.2d"
+msgstr ""
+"Plateau : %s\n"
+"Plateau terminé en %.2d:%.2d\n"
+"\n"
+"Nouveau record personnel !\n"
+"Ancien meilleur temps : %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description3%s%.2d%.2d"
+msgstr ""
+"Plateau : %s\n"
+"Plateau terminé en %.2d:%.2d\n"
+"\n"
+"Nouveau record personnel !"
+
+msgid "game_fi_mahjong_game_board_1"
+msgstr "Standard"
+
+msgid "game_fi_mahjong_game_board_2"
+msgstr "Fleur de lotus"
+
+msgid "game_fi_mahjong_game_board_3"
+msgstr "Croix confondante"
+
+msgid "game_fi_mahjong_game_board_4"
+msgstr "Murs de pyramide"
+
+msgid "game_fi_mahjong_game_board_5"
+msgstr "Tic-tac-toe"
+
+msgid "game_fi_mahjong_game_board_6"
+msgstr "Nuage"
+
+msgid "game_fi_mahjong_game_board_7"
+msgstr "Dragon rouge"
+
+msgid "game_fi_mahjong_game_board_8"
+msgstr "Les quatre ponts"
+
+msgid "game_fi_mahjong_settings_board"
+msgstr "Tableau"
+
+msgid "game_fi_mahjong_settings_sound"
+msgstr "Effets sonores"
+
+msgid "game_ia_startup_not_started"
+msgstr "Partie pas encore lancée"
+
+msgid "game_ia_startup_paused"
+msgstr "Partie en pause"
+
+msgid "game_ib_changes_effect_next_game"
+msgstr "Les modifications deviendront effectives lors de la prochaine partie"
+
+msgid "game_ib_chess_check"
+msgstr "Échec !"
+
+msgid "game_ib_chess_check_mate"
+msgstr "Échec et mat !"
+
+msgid "game_ib_not_available"
+msgstr "Non disponible"
+
+msgid "game_me_blocks_main_menu_game"
+msgstr "Partie"
+
+msgid "game_me_blocks_menu_game_play"
+msgstr "Jouer"
+
+msgid "game_me_blocks_menu_game_restart"
+msgstr "Relancer"
+
+msgid "game_me_chess_main_menu_game"
+msgstr "Partie"
+
+msgid "game_me_chess_main_menu_recent"
+msgstr "Récents"
+
+msgid "game_me_chess_main_menu_settings"
+msgstr "Paramètres"
+
+msgid "game_me_chess_menu_game_open"
+msgstr "Ouvrir"
+
+msgid "game_me_chess_menu_game_play"
+msgstr "Jouer"
+
+msgid "game_me_chess_menu_game_restart"
+msgstr "Relancer"
+
+msgid "game_me_chess_menu_game_save"
+msgstr "Enregistrer"
+
+msgid "game_me_chess_menu_game_save_as"
+msgstr "Enregistrer sous"
+
+msgid "game_me_chess_menu_settings_human"
+msgstr "Joueur 1"
+
+msgid "game_me_chess_menu_settings_human_black"
+msgstr "Noirs"
+
+msgid "game_me_chess_menu_settings_human_white"
+msgstr "Blancs"
+
+msgid "game_me_chess_menu_settings_legal_moves"
+msgstr "Afficher coups autorisés"
+
+msgid "game_me_chess_menu_settings_opponent"
+msgstr "Adversaire "
+
+msgid "game_me_chess_menu_settings_opponent_1"
+msgstr "Facile"
+
+msgid "game_me_chess_menu_settings_opponent_2"
+msgstr "Moyen"
+
+msgid "game_me_chess_menu_settings_opponent_3"
+msgstr "Difficile"
+
+msgid "game_me_chess_menu_settings_opponent_4"
+msgstr "Expert"
+
+msgid "game_me_chess_menu_settings_opponent_human"
+msgstr "Joueur 2"
+
+msgid "game_me_chess_menu_settings_sound"
+msgstr "Son"
+
+msgid "game_me_lmarbles_main_menu_game"
+msgstr "Partie"
+
+msgid "game_me_lmarbles_main_menu_settings"
+msgstr "Paramètres"
+
+msgid "game_me_lmarbles_menu_game_play"
+msgstr "Jouer"
+
+msgid "game_me_lmarbles_menu_game_restart"
+msgstr "Relancer"
+
+msgid "game_me_lmarbles_menu_settings_brainstorm"
+msgstr "Expert"
+
+msgid "game_me_lmarbles_menu_settings_easy"
+msgstr "Facile"
+
+msgid "game_me_lmarbles_menu_settings_hard"
+msgstr "Difficile"
+
+msgid "game_me_lmarbles_menu_settings_normal"
+msgstr "Normale"
+
+msgid "game_me_lmarbles_menu_settings_reset"
+msgstr "Réinitialiser"
+
+msgid "game_me_lmarbles_menu_settings_reset_progress"
+msgstr "Réinitialiser la progression du jeu"
+
+msgid "game_me_lmarbles_menu_settings_sound"
+msgstr "Son"
+
+msgid "game_me_mahjong_main_menu_board"
+msgstr "Tableau"
+
+msgid "game_me_mahjong_main_menu_game"
+msgstr "Partie"
+
+msgid "game_me_mahjong_main_menu_settings"
+msgstr "Paramètres"
+
+msgid "game_me_mahjong_main_menu_tools"
+msgstr "Outils"
+
+msgid "game_me_mahjong_menu_board_1"
+msgstr "Standard"
+
+msgid "game_me_mahjong_menu_board_2"
+msgstr "Fleur de lotus"
+
+msgid "game_me_mahjong_menu_board_3"
+msgstr "Croix confondante"
+
+msgid "game_me_mahjong_menu_board_4"
+msgstr "Murs de pyramide"
+
+msgid "game_me_mahjong_menu_board_5"
+msgstr "Tic-tac-toe"
+
+msgid "game_me_mahjong_menu_board_6"
+msgstr "Nuage"
+
+msgid "game_me_mahjong_menu_board_7"
+msgstr "Dragon rouge"
+
+msgid "game_me_mahjong_menu_board_8"
+msgstr "Les quatre ponts"
+
+msgid "game_me_mahjong_menu_game_play"
+msgstr "Jouer"
+
+msgid "game_me_mahjong_menu_game_restart"
+msgstr "Relancer"
+
+msgid "game_me_mahjong_menu_settings_sound"
+msgstr "Son"
+
+msgid "game_me_mahjong_menu_tools_high_scores"
+msgstr "Meilleurs temps"
+
+msgid "game_me_main_menu_close"
+msgstr "Fermer"
+
+msgid "game_nc_change_level"
+msgstr "Accéder au niveau %d du chapitre %d ?"
+
+msgid "game_nc_reset_game_progress"
+msgstr ""
+"La réinitialisation du jeu va fermer tous les niveaux ouverts. Continuer ?"
+
+msgid "game_nc_restart_game"
+msgstr "Commencer nouvelle partie ?"
+
+msgid "game_ni_unsupported_file%s"
+msgstr ""
+"Impossible d'ouvrir %s.\n"
+"Format du fichier non pris en charge."
+
+msgid "game_ti_blocks_end_game_title"
+msgstr "Partie terminée"
+
+msgid "game_ti_chess_end_game_title"
+msgstr "Partie terminée"
+
+msgid "game_ti_chess_promote_pawn_title"
+msgstr "Promotion du pion"
+
+msgid "game_ti_lmarbles_congratulations_title"
+msgstr "Félicitations !"
+
+msgid "game_ti_load_game_title"
+msgstr "Charger la partie"
+
+msgid "game_ti_mahjong_end_game_title"
+msgstr "Partie terminée"
+
+msgid "game_ti_mahjong_high_scores_date"
+msgstr "Date "
+
+msgid "game_ti_mahjong_high_scores_level"
+msgstr "Tableau"
+
+msgid "game_ti_mahjong_high_scores_time"
+msgstr "Meilleur temps"
+
+msgid "game_ti_mahjong_high_scores_title"
+msgstr "Meilleurs temps"
+
+msgid "game_ti_save_game_title"
+msgstr "Sauvegarder la partie"
+
+msgid "game_va_chess_settings_human_black"
+msgstr "Noirs"
+
+msgid "game_va_chess_settings_human_white"
+msgstr "Blancs"
+
+msgid "game_va_chess_settings_opponent_easy"
+msgstr "Facile"
+
+msgid "game_va_chess_settings_opponent_expert"
+msgstr "Expert"
+
+msgid "game_va_chess_settings_opponent_hard"
+msgstr "Difficile"
+
+msgid "game_va_chess_settings_opponent_human"
+msgstr "Joueur 2"
+
+msgid "game_va_chess_settings_opponent_medium"
+msgstr "Moyen"
+
+msgid "game_va_lmarbles_settings_difficulty_1"
+msgstr "Facile"
+
+msgid "game_va_lmarbles_settings_difficulty_2"
+msgstr "Normal"
+
+msgid "game_va_lmarbles_settings_difficulty_3"
+msgstr "Difficile"
+
+msgid "game_va_lmarbles_settings_difficulty_4"
+msgstr "Expert"
+
+msgid "game_va_mahjong_settings_board_1"
+msgstr "Standard"
+
+msgid "game_va_mahjong_settings_board_2"
+msgstr "Fleur de lotus"
+
+msgid "game_va_mahjong_settings_board_3"
+msgstr "Croix confondante"
+
+msgid "game_va_mahjong_settings_board_4"
+msgstr "Murs de pyramide"
+
+msgid "game_va_mahjong_settings_board_5"
+msgstr "Tic-tac-toe"
+
+msgid "game_va_mahjong_settings_board_6"
+msgstr "Nuage"
+
+msgid "game_va_mahjong_settings_board_7"
+msgstr "Dragon rouge"
+
+msgid "game_va_mahjong_settings_board_8"
+msgstr "Les quatre ponts"
+
+msgid "sfil_va_save_object_name_stub_chess"
+msgstr "Chess"
+
+msgid "sfil_va_select_object_no_objects_games"
+msgstr "(aucun jeu)"
