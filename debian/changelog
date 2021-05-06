@@ -1,3 +1,9 @@
+osso-games-l10n (7.1) unreleased; urgency=medium
+
+  * Tag new release
+
+ -- Ivan J. <parazyd@dyne.org>  Thu, 06 May 2021 23:07:09 +0200
+
 osso-games-l10n (7.0) unstable; urgency=medium
 
   * Initial Maemo Leste packaging
