@@ -1,0 +1,493 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-games 20090202110755\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.02 11:07+0200\n"
+"PO-Revision-Date: 2009-10-23 09:38+0200\n"
+"Last-Translator:\n"
+"Language-Team: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
+
+msgid "game_ap_blocks_name"
+msgstr "Kocky"
+
+msgid "game_ap_chess_name"
+msgstr "Šachy"
+
+msgid "game_ap_mahjong_name"
+msgstr "Mahjong"
+
+msgid "game_ap_marbles_name"
+msgstr "Guľôčky"
+
+msgid "game_ap_startup_name"
+msgstr "Spustiť"
+
+msgid "game_bd_blocks_main_exit_to_menu"
+msgstr "Odísť do ponuky"
+
+msgid "game_bd_blocks_main_restart"
+msgstr "Reštartovať"
+
+msgid "game_bd_change_level_cancel"
+msgstr "Nie"
+
+msgid "game_bd_change_level_ok"
+msgstr "Áno"
+
+msgid "game_bd_chess_end_game_ok"
+msgstr "OK"
+
+msgid "game_bd_chess_promote_pawn_ok"
+msgstr "OK"
+
+msgid "game_bd_lmarbles_congratulations_ok"
+msgstr "OK"
+
+msgid "game_bd_mahjong_end_game_ok"
+msgstr "OK"
+
+msgid "game_bd_mahjong_high_scores_close"
+msgstr "Zavrieť"
+
+msgid "game_bd_reset_game_progress_cancel"
+msgstr "Nie"
+
+msgid "game_bd_reset_game_progress_ok"
+msgstr "Áno"
+
+msgid "game_bd_restart_game_cancel"
+msgstr "Nie"
+
+msgid "game_bd_restart_game_ok"
+msgstr "Áno"
+
+msgid "game_bu_mahjong_settings_high_scores"
+msgstr "Najlepšie časy"
+
+msgid "game_bv_startup_continue"
+msgstr "Pokračovať"
+
+msgid "game_bv_startup_play"
+msgstr "Hrať"
+
+msgid "game_bv_startup_restart"
+msgstr "Reštartovať"
+
+msgid "game_fi_blocks_end_game_description"
+msgstr "Klepnutím na „Reštartovať“ zahájite novú hru"
+
+msgid "game_fi_blocks_main_level"
+msgstr "Úroveň"
+
+msgid "game_fi_blocks_main_lines"
+msgstr "Riadky"
+
+msgid "game_fi_blocks_main_next"
+msgstr "Nasledujúca"
+
+msgid "game_fi_blocks_main_score"
+msgstr "Skóre"
+
+msgid "game_fi_blocks_settings_difficulty"
+msgstr "Rýchlosť kociek"
+
+msgid "game_fi_blocks_settings_noise_height"
+msgstr "Počiatočná výška"
+
+msgid "game_fi_blocks_settings_noise_level"
+msgstr "Počiatočná hustota"
+
+msgid "game_fi_chess_computer_title"
+msgstr "Počítač"
+
+msgid "game_fi_chess_end_game_description%s"
+msgstr "Mat – vyhráva %s!"
+
+msgid "game_fi_chess_end_game_tie_description"
+msgstr "Pat – hra nerozhodne"
+
+msgid "game_fi_chess_player_1_title"
+msgstr "Hráč 1"
+
+msgid "game_fi_chess_player_2_title"
+msgstr "Hráč 2"
+
+msgid "game_fi_chess_promote_pawn_description"
+msgstr "Podporovať k:"
+
+msgid "game_fi_chess_settings_human"
+msgstr "Hráč 1"
+
+msgid "game_fi_chess_settings_legal_moves"
+msgstr "Ukázať povolené ťahy"
+
+msgid "game_fi_chess_settings_opponent"
+msgstr "Protihráč"
+
+msgid "game_fi_chess_settings_sound"
+msgstr "Zvukové efekty"
+
+msgid "game_fi_lmarbles_congratulations_description"
+msgstr "Hru ste úspešne dokončili!"
+
+msgid "game_fi_lmarbles_main_chapter_level"
+msgstr "Kapitola %d, Úroveň %d"
+
+msgid "game_fi_lmarbles_main_high_score"
+msgstr "Rekord: %d"
+
+msgid "game_fi_lmarbles_main_level_bonus"
+msgstr "Bonus úrovne:"
+
+msgid "game_fi_lmarbles_main_move_bonus"
+msgstr "Bonus ťahu:"
+
+msgid "game_fi_lmarbles_main_moves"
+msgstr "Ťahy: %d"
+
+msgid "game_fi_lmarbles_main_score"
+msgstr "Skóre: %d"
+
+msgid "game_fi_lmarbles_main_total_score"
+msgstr "Celkové skóre:"
+
+msgid "game_fi_lmarbles_settings_difficulty"
+msgstr "Úroveň obtiažnosti"
+
+msgid "game_fi_lmarbles_settings_sound"
+msgstr "Zvukové efekty"
+
+msgid "game_fi_mahjong_end_game_description%s%.2d%.2d%.2d%.2d"
+msgstr ""
+"Hracia plocha: %s\n"
+"Hra dokončená za %.2d:%.2d\n"
+"\n"
+"Rekord hracej polochy: %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description2%s%.2d%.2d%.2d%.2d"
+msgstr ""
+"Hracia plocha: %s\n"
+"Hra dokončená za %.2d:%.2d\n"
+"\n"
+"Nový osobný rekord!\n"
+"Pôvodný rekord: %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description3%s%.2d%.2d"
+msgstr ""
+"Hracia plocha: %s\n"
+"Hra dokončená za %.2d:%.2d\n"
+"\n"
+"Nový osobný rekord!"
+
+msgid "game_fi_mahjong_game_board_1"
+msgstr "Štandardná"
+
+msgid "game_fi_mahjong_game_board_2"
+msgstr "Lotosový kvet"
+
+msgid "game_fi_mahjong_game_board_3"
+msgstr "Zmätený kríž"
+
+msgid "game_fi_mahjong_game_board_4"
+msgstr "Steny pyramíd"
+
+msgid "game_fi_mahjong_game_board_5"
+msgstr "Piškôrky"
+
+msgid "game_fi_mahjong_game_board_6"
+msgstr "Mrak"
+
+msgid "game_fi_mahjong_game_board_7"
+msgstr "Červený drak"
+
+msgid "game_fi_mahjong_game_board_8"
+msgstr "Štyri mosty"
+
+msgid "game_fi_mahjong_settings_board"
+msgstr "Hracia plocha"
+
+msgid "game_fi_mahjong_settings_sound"
+msgstr "Zvukové efekty"
+
+msgid "game_ia_startup_not_started"
+msgstr "Hra nebola spustená"
+
+msgid "game_ia_startup_paused"
+msgstr "Hra pozastavená"
+
+msgid "game_ib_changes_effect_next_game"
+msgstr "Zmeny budú funkčné pri ďalšej hre"
+
+msgid "game_ib_chess_check"
+msgstr "Šach!"
+
+msgid "game_ib_chess_check_mate"
+msgstr "Mat!"
+
+msgid "game_ib_not_available"
+msgstr "Nie je dostupné"
+
+msgid "game_me_blocks_main_menu_game"
+msgstr "Hra"
+
+msgid "game_me_blocks_menu_game_play"
+msgstr "Hrať"
+
+msgid "game_me_blocks_menu_game_restart"
+msgstr "Reštartovať"
+
+msgid "game_me_chess_main_menu_game"
+msgstr "Hra"
+
+msgid "game_me_chess_main_menu_recent"
+msgstr "Najnovšie"
+
+msgid "game_me_chess_main_menu_settings"
+msgstr "Nastavenie"
+
+msgid "game_me_chess_menu_game_open"
+msgstr "Otvoriť"
+
+msgid "game_me_chess_menu_game_play"
+msgstr "Hrať"
+
+msgid "game_me_chess_menu_game_restart"
+msgstr "Reštartovať"
+
+msgid "game_me_chess_menu_game_save"
+msgstr "Uložiť"
+
+msgid "game_me_chess_menu_game_save_as"
+msgstr "Uložiť ako"
+
+msgid "game_me_chess_menu_settings_human"
+msgstr "Hráč 1"
+
+msgid "game_me_chess_menu_settings_human_black"
+msgstr "Čierny"
+
+msgid "game_me_chess_menu_settings_human_white"
+msgstr "Biely"
+
+msgid "game_me_chess_menu_settings_legal_moves"
+msgstr "Ukázať povolené ťahy"
+
+msgid "game_me_chess_menu_settings_opponent"
+msgstr "Protihráč"
+
+msgid "game_me_chess_menu_settings_opponent_1"
+msgstr "Ľahký"
+
+msgid "game_me_chess_menu_settings_opponent_2"
+msgstr "Stredný"
+
+msgid "game_me_chess_menu_settings_opponent_3"
+msgstr "Pokročilý"
+
+msgid "game_me_chess_menu_settings_opponent_4"
+msgstr "Expert"
+
+msgid "game_me_chess_menu_settings_opponent_human"
+msgstr "Hráč 2"
+
+msgid "game_me_chess_menu_settings_sound"
+msgstr "Zvuk"
+
+msgid "game_me_lmarbles_main_menu_game"
+msgstr "Hra"
+
+msgid "game_me_lmarbles_main_menu_settings"
+msgstr "Nastavenie"
+
+msgid "game_me_lmarbles_menu_game_play"
+msgstr "Hrať"
+
+msgid "game_me_lmarbles_menu_game_restart"
+msgstr "Reštartovať"
+
+msgid "game_me_lmarbles_menu_settings_brainstorm"
+msgstr "Brainstrom"
+
+msgid "game_me_lmarbles_menu_settings_easy"
+msgstr "Ľahká"
+
+msgid "game_me_lmarbles_menu_settings_hard"
+msgstr "Pokročilá"
+
+msgid "game_me_lmarbles_menu_settings_normal"
+msgstr "Normálna"
+
+msgid "game_me_lmarbles_menu_settings_reset"
+msgstr "Vynulovať"
+
+msgid "game_me_lmarbles_menu_settings_reset_progress"
+msgstr "Vynulovať postup hry"
+
+msgid "game_me_lmarbles_menu_settings_sound"
+msgstr "Zvuk"
+
+msgid "game_me_mahjong_main_menu_board"
+msgstr "Hracia plocha"
+
+msgid "game_me_mahjong_main_menu_game"
+msgstr "Hra"
+
+msgid "game_me_mahjong_main_menu_settings"
+msgstr "Nastavenie"
+
+msgid "game_me_mahjong_main_menu_tools"
+msgstr "Nástroje"
+
+msgid "game_me_mahjong_menu_board_1"
+msgstr "Štandardná"
+
+msgid "game_me_mahjong_menu_board_2"
+msgstr "Lotosový kvet"
+
+msgid "game_me_mahjong_menu_board_3"
+msgstr "Zmätený kríž"
+
+msgid "game_me_mahjong_menu_board_4"
+msgstr "Steny pyramíd"
+
+msgid "game_me_mahjong_menu_board_5"
+msgstr "Piškôrky"
+
+msgid "game_me_mahjong_menu_board_6"
+msgstr "Mrak"
+
+msgid "game_me_mahjong_menu_board_7"
+msgstr "Červený drak"
+
+msgid "game_me_mahjong_menu_board_8"
+msgstr "Štyri mosty"
+
+msgid "game_me_mahjong_menu_game_play"
+msgstr "Hrať"
+
+msgid "game_me_mahjong_menu_game_restart"
+msgstr "Reštartovať"
+
+msgid "game_me_mahjong_menu_settings_sound"
+msgstr "Zvuk"
+
+msgid "game_me_mahjong_menu_tools_high_scores"
+msgstr "Najlepšie časy"
+
+msgid "game_me_main_menu_close"
+msgstr "Zavrieť"
+
+msgid "game_nc_change_level"
+msgstr "Vložiť úroveň %d kapitoly %d?"
+
+msgid "game_nc_reset_game_progress"
+msgstr "Vynulovanie hry zavrie všetky otvorené úrovne. Pokračovať?"
+
+msgid "game_nc_restart_game"
+msgstr "Začať novú hru?"
+
+msgid "game_ni_unsupported_file%s"
+msgstr ""
+"Nemožno otvoriť %s.\n"
+"Nepodporovaný formát súboru."
+
+msgid "game_ti_blocks_end_game_title"
+msgstr "Koniec hry"
+
+msgid "game_ti_chess_end_game_title"
+msgstr "Koniec hry"
+
+msgid "game_ti_chess_promote_pawn_title"
+msgstr "Podpora pešiaka"
+
+msgid "game_ti_lmarbles_congratulations_title"
+msgstr "Gratulujeme!"
+
+msgid "game_ti_load_game_title"
+msgstr "Načítať hru"
+
+msgid "game_ti_mahjong_end_game_title"
+msgstr "Koniec hry"
+
+msgid "game_ti_mahjong_high_scores_date"
+msgstr "Dátum"
+
+msgid "game_ti_mahjong_high_scores_level"
+msgstr "Hracia plocha"
+
+msgid "game_ti_mahjong_high_scores_time"
+msgstr "Najlepší čas"
+
+msgid "game_ti_mahjong_high_scores_title"
+msgstr "Najlepšie časy"
+
+msgid "game_ti_save_game_title"
+msgstr "Uložiť hru"
+
+msgid "game_va_chess_settings_human_black"
+msgstr "Čierny"
+
+msgid "game_va_chess_settings_human_white"
+msgstr "Biely"
+
+msgid "game_va_chess_settings_opponent_easy"
+msgstr "Ľahký"
+
+msgid "game_va_chess_settings_opponent_expert"
+msgstr "Expert"
+
+msgid "game_va_chess_settings_opponent_hard"
+msgstr "Pokročilý"
+
+msgid "game_va_chess_settings_opponent_human"
+msgstr "Hráč 2"
+
+msgid "game_va_chess_settings_opponent_medium"
+msgstr "Stredný"
+
+msgid "game_va_lmarbles_settings_difficulty_1"
+msgstr "Ľahká"
+
+msgid "game_va_lmarbles_settings_difficulty_2"
+msgstr "Normálna"
+
+msgid "game_va_lmarbles_settings_difficulty_3"
+msgstr "Pokročilá"
+
+msgid "game_va_lmarbles_settings_difficulty_4"
+msgstr "Brainstorm"
+
+msgid "game_va_mahjong_settings_board_1"
+msgstr "Štandardná"
+
+msgid "game_va_mahjong_settings_board_2"
+msgstr "Lotosový kvet"
+
+msgid "game_va_mahjong_settings_board_3"
+msgstr "Zmätený kríž"
+
+msgid "game_va_mahjong_settings_board_4"
+msgstr "Steny pyramíd"
+
+msgid "game_va_mahjong_settings_board_5"
+msgstr "Piškôrky"
+
+msgid "game_va_mahjong_settings_board_6"
+msgstr "Mrak"
+
+msgid "game_va_mahjong_settings_board_7"
+msgstr "Červený drak"
+
+msgid "game_va_mahjong_settings_board_8"
+msgstr "Štyri mosty"
+
+msgid "sfil_va_save_object_name_stub_chess"
+msgstr "Šachy"
+
+msgid "sfil_va_select_object_no_objects_games"
+msgstr "(žiadne hry)"
