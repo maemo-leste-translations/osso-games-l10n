@@ -1,0 +1,681 @@
+#
+# This file is part of osso-games-l10n-public
+#
+# Copyright (C) 2006-2007 Nokia Corporation. All rights reserved.
+#
+# Contact: Mohammed Hassan <mohammed.2.hassan@nokia.com>
+#
+# Redistribution and use in source and binary forms, with or without modification,
+# are permitted provided that the following conditions are met:
+#
+#     Redistributions of source code must retain the above copyright notice,
+#     this list of conditions and the following disclaimer.
+#     Redistributions in binary form must reproduce the above copyright notice,
+#     this list of conditions and the following disclaimer in the documentation and/or
+#     other materials provided with the distribution.
+#     Neither the name of Nokia Corporation nor the names of its contributors may be used
+#     to endorse or promote products derived from this software without specific prior written
+#     permission.
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR
+# IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+# AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
+# OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+# CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+# SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+# THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+# OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+# POSSIBILITY OF SUCH DAMAGE.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-games 20090202110755\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.02 11:07+0200\n"
+"PO-Revision-Date: 2010-05-29 21:33+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+# Information banner shown to the user when s/he changes the difficulty level during an active or paused game
+msgid "game_ib_changes_effect_next_game"
+msgstr "Değişiklikler bir sonraki oyunda etkili olacak"
+
+# Text in Games start-up screen common controls
+msgid "game_ia_startup_not_started"
+msgstr "Oyun henüz başlatılmadı"
+
+# Text in Games start-up screen common controls
+msgid "game_ia_startup_paused"
+msgstr "Oyun durduruldu"
+
+# "Play" button in Games start-up screen common controls
+msgid "game_bv_startup_play"
+msgstr "Oyna"
+
+# "Continue" button in Games start-up screen common controls
+msgid "game_bv_startup_continue"
+msgstr "Devam et"
+
+# "Restart" button in Games start-up screen common controls
+msgid "game_bv_startup_restart"
+msgstr "Yeniden başla"
+
+# Label for Human setting choice list
+msgid "game_fi_chess_settings_human"
+msgstr "Oyuncu 1"
+
+# A value for Human setting choice list
+msgid "game_va_chess_settings_human_white"
+msgstr "Beyaz"
+
+# A value for Human setting choice list
+msgid "game_va_chess_settings_human_black"
+msgstr "Siyah"
+
+# Label to Opponent setting choice list
+msgid "game_fi_chess_settings_opponent"
+msgstr "Rakip"
+
+# A value for Opponent setting choice list
+msgid "game_va_chess_settings_opponent_easy"
+msgstr "Kolay"
+
+# A value for Opponent setting choice list
+msgid "game_va_chess_settings_opponent_medium"
+msgstr "Orta"
+
+# A value for Opponent setting choice list
+msgid "game_va_chess_settings_opponent_hard"
+msgstr "Gelişmiş"
+
+# A value for Opponent setting choice list
+msgid "game_va_chess_settings_opponent_expert"
+msgstr "Uzman"
+
+# A value for Opponent setting choice list
+msgid "game_va_chess_settings_opponent_human"
+msgstr "Oyuncu 2"
+
+# Label for Chess sound effects check box
+msgid "game_fi_chess_settings_sound"
+msgstr "Ses efektleri"
+
+# Label for Chess legal moves check box
+msgid "game_fi_chess_settings_legal_moves"
+msgstr "Uygun hamleleri göster"
+
+# Label for Mahjong board choice list
+msgid "game_fi_mahjong_settings_board"
+msgstr "Pano"
+
+# A value for Mahjong board choice list
+msgid "game_va_mahjong_settings_board_1"
+msgstr "Standart"
+
+# A value for Mahjong board choice list
+msgid "game_va_mahjong_settings_board_2"
+msgstr "Lotus çiçeği"
+
+# A value for Mahjong board choice list
+msgid "game_va_mahjong_settings_board_3"
+msgstr "Şaşırtıcı çapraz"
+
+# A value for Mahjong board choice list
+msgid "game_va_mahjong_settings_board_4"
+msgstr "Piramit Duvarları"
+
+# A value for Mahjong board choice list
+msgid "game_va_mahjong_settings_board_5"
+msgstr "Tic-tac-toe"
+
+# A value for Mahjong board choice list
+msgid "game_va_mahjong_settings_board_6"
+msgstr "Bulut"
+
+# A value for Mahjong board choice list
+msgid "game_va_mahjong_settings_board_7"
+msgstr "Kızıl ejderha"
+
+# A value for Mahjong board choice list
+msgid "game_va_mahjong_settings_board_8"
+msgstr "Dört köprü"
+
+# Label for Mahjong sound effects check box
+msgid "game_fi_mahjong_settings_sound"
+msgstr "Ses efektleri"
+
+# Label for Mahjong high scores view button
+msgid "game_bu_mahjong_settings_high_scores"
+msgstr "Zamanlamalar"
+
+# Label to Difficulty setting choice list
+msgid "game_fi_lmarbles_settings_difficulty"
+msgstr "Zorluk seviyesi"
+
+# Value for Difficulty setting choice list
+msgid "game_va_lmarbles_settings_difficulty_1"
+msgstr "Kolay"
+
+# Value for Difficulty setting choice list
+msgid "game_va_lmarbles_settings_difficulty_2"
+msgstr "Normal"
+
+# Value for Difficulty setting choice list
+msgid "game_va_lmarbles_settings_difficulty_3"
+msgstr "Gelişmiş"
+
+# Value for Difficulty setting choice list
+msgid "game_va_lmarbles_settings_difficulty_4"
+msgstr "Beyin fırtınası"
+
+# Label to Sound effects setting checkbox
+msgid "game_fi_lmarbles_settings_sound"
+msgstr "Ses efektleri"
+
+# Label for Block speed setting choice list (was: Difficulty)
+msgid "game_fi_blocks_settings_difficulty"
+msgstr "Blok hızı"
+
+# Label for Starting height choice list (was: Noise height)
+msgid "game_fi_blocks_settings_noise_height"
+msgstr "Başlangıç uzunluğu"
+
+# Label for Starting density choice list (was: Noise level)
+msgid "game_fi_blocks_settings_noise_level"
+msgstr "Başlangıç yoğunluğu"
+
+# Application name of Chess
+msgid "game_ap_chess_name"
+msgstr "Satranç"
+
+# Application name of Mahjong
+msgid "game_ap_mahjong_name"
+msgstr "Mahjong"
+
+# Application name of LMarbles
+msgid "game_ap_marbles_name"
+msgstr "Bilyeler"
+
+# Application name of Blocks
+msgid "game_ap_blocks_name"
+msgstr "Bloklar"
+
+# Title of computer player in Chess view
+msgid "game_fi_chess_computer_title"
+msgstr "Bilgisayar"
+
+# Title of first human player in Chess view
+msgid "game_fi_chess_player_1_title"
+msgstr "Oyuncu 1"
+
+# Title of second human player in Chess view
+msgid "game_fi_chess_player_2_title"
+msgstr "Oyuncu 2"
+
+# Title of score in Marbles view, where %d is the current score
+msgid "game_fi_lmarbles_main_score"
+msgstr "Skor: %d"
+
+# Title of high score in Marbles view, where %d is the current high score
+msgid "game_fi_lmarbles_main_high_score"
+msgstr "Yüksek skor: %d"
+
+# Title of moves in Marbles view, where %d is the available amount of moves
+msgid "game_fi_lmarbles_main_moves"
+msgstr "Hamle: %d"
+
+# Title of current level in Marbles view where the first %d is the current chapter and the second %d is the current level
+msgid "game_fi_lmarbles_main_chapter_level"
+msgstr "Bölüm %d, Seviye %d"
+
+# Title of level bonus in Marbles view, after the player has finished a level.
+msgid "game_fi_lmarbles_main_level_bonus"
+msgstr "Seviye bonus:"
+
+# Title of move bonus in Marbles view, after the player has finished a level.
+msgid "game_fi_lmarbles_main_move_bonus"
+msgstr "Hamle bonus:"
+
+# Title of total score in Marbles view, after the player has finished a level.
+msgid "game_fi_lmarbles_main_total_score"
+msgstr "Toplam skor:"
+
+# Title of next block in Blocks view
+msgid "game_fi_blocks_main_next"
+msgstr "Sonraki"
+
+# Title of level in Blocks view
+msgid "game_fi_blocks_main_level"
+msgstr "Seviye"
+
+# Title of score in Blocks view
+msgid "game_fi_blocks_main_score"
+msgstr "Skor"
+
+# Title of lines in Blocks view
+msgid "game_fi_blocks_main_lines"
+msgstr "Satırlar"
+
+# Restart button
+msgid "game_bd_blocks_main_restart"
+msgstr "Yeniden başla"
+
+# Exit to menu -button
+msgid "game_bd_blocks_main_exit_to_menu"
+msgstr "Menüye dön"
+
+# Chess menu title
+msgid "game_me_chess_main_menu_game"
+msgstr "Oyun"
+
+# Chess menu title
+msgid "game_me_chess_main_menu_settings"
+msgstr "Ayarlar"
+
+# Chess menu title
+msgid "game_me_chess_main_menu_recent"
+msgstr "En son"
+
+# Chess menu command
+msgid "game_me_chess_menu_game_play"
+msgstr "Oyna"
+
+# Chess menu command
+msgid "game_me_chess_menu_game_restart"
+msgstr "Yeniden başla"
+
+# Chess menu command
+msgid "game_me_chess_menu_game_open"
+msgstr "Aç"
+
+# Chess menu command
+msgid "game_me_chess_menu_game_save"
+msgstr "Kaydet"
+
+# Chess menu command
+msgid "game_me_chess_menu_game_save_as"
+msgstr "Farklı kaydet"
+
+# Chess menu command
+msgid "game_me_chess_menu_settings_human"
+msgstr "Oyuncu 1"
+
+# Chess menu command
+msgid "game_me_chess_menu_settings_human_white"
+msgstr "Beyaz"
+
+# Chess menu command
+msgid "game_me_chess_menu_settings_human_black"
+msgstr "Siyah"
+
+# Chess menu command
+msgid "game_me_chess_menu_settings_opponent"
+msgstr "Rakip"
+
+# Chess menu command
+msgid "game_me_chess_menu_settings_opponent_1"
+msgstr "Kolay"
+
+# Chess menu command
+msgid "game_me_chess_menu_settings_opponent_2"
+msgstr "Orta"
+
+# Chess menu command
+msgid "game_me_chess_menu_settings_opponent_3"
+msgstr "Gelişmiş"
+
+# Chess menu command
+msgid "game_me_chess_menu_settings_opponent_4"
+msgstr "Uzman"
+
+# Chess menu command
+msgid "game_me_chess_menu_settings_opponent_human"
+msgstr "Oyuncu 2"
+
+# Chess menu command
+msgid "game_me_chess_menu_settings_sound"
+msgstr "Ses"
+
+# Chess menu command
+msgid "game_me_chess_menu_settings_legal_moves"
+msgstr "Uygun hamleleri göster"
+
+# Mahjong menu title
+msgid "game_me_mahjong_main_menu_game"
+msgstr "Oyun"
+
+# Mahjong menu title
+msgid "game_me_mahjong_main_menu_board"
+msgstr "Pano"
+
+# Mahjong menu title
+msgid "game_me_mahjong_main_menu_settings"
+msgstr "Ayarlar"
+
+# Mahjong menu title
+msgid "game_me_mahjong_main_menu_tools"
+msgstr "Araçlar"
+
+# Mahjong menu command
+msgid "game_me_mahjong_menu_game_play"
+msgstr "Oyna"
+
+# Mahjong menu command
+msgid "game_me_mahjong_menu_game_restart"
+msgstr "Yeniden Başla"
+
+# Mahjong menu command
+msgid "game_me_mahjong_menu_board_1"
+msgstr "Standart"
+
+# Mahjong menu command
+msgid "game_me_mahjong_menu_board_2"
+msgstr "Lotus flower"
+
+# Mahjong menu command
+msgid "game_me_mahjong_menu_board_3"
+msgstr "Şaşırtıcı çapraz"
+
+# Mahjong menu command
+msgid "game_me_mahjong_menu_board_4"
+msgstr "Piramit Duvarları"
+
+# Mahjong menu command
+msgid "game_me_mahjong_menu_board_5"
+msgstr "Tic-tac-toe"
+
+# Mahjong menu command
+msgid "game_me_mahjong_menu_board_6"
+msgstr "Bulut"
+
+# Mahjong menu command
+msgid "game_me_mahjong_menu_board_7"
+msgstr "Kızıl ejderha"
+
+# Mahjong menu command
+msgid "game_me_mahjong_menu_board_8"
+msgstr "Dört köprü"
+
+# Mahjong menu command
+msgid "game_me_mahjong_menu_settings_sound"
+msgstr "Ses"
+
+# Mahjong menu command
+msgid "game_me_mahjong_menu_tools_high_scores"
+msgstr "Zamanlamalar"
+
+# LMarbles menu title
+msgid "game_me_lmarbles_main_menu_game"
+msgstr "Oyun"
+
+# LMarbles menu title
+msgid "game_me_lmarbles_main_menu_settings"
+msgstr "Ayarlar"
+
+# LMarbles menu command
+msgid "game_me_lmarbles_menu_game_play"
+msgstr "Oyna"
+
+# LMarbles menu command
+msgid "game_me_lmarbles_menu_game_restart"
+msgstr "Yeniden Başla"
+
+# LMarbles menu command
+msgid "game_me_lmarbles_menu_settings_easy"
+msgstr "Kolay"
+
+# LMarbles menu command
+msgid "game_me_lmarbles_menu_settings_normal"
+msgstr "Normal"
+
+# LMarbles menu command
+msgid "game_me_lmarbles_menu_settings_hard"
+msgstr "Gelişmiş"
+
+# LMarbles menu command
+msgid "game_me_lmarbles_menu_settings_brainstorm"
+msgstr "Beyin fırtınası"
+
+# LMarbles menu command
+msgid "game_me_lmarbles_menu_settings_sound"
+msgstr "Ses"
+
+# LMarbles menu command
+msgid "game_me_lmarbles_menu_settings_reset"
+msgstr "Sıfırla"
+
+# LMarbles menu command
+msgid "game_me_lmarbles_menu_settings_reset_progress"
+msgstr "Oyun ilerlemesini sıfırla"
+
+# Blocks menu title
+msgid "game_me_blocks_main_menu_game"
+msgstr "Oyun"
+
+# Blocks menu command
+msgid "game_me_blocks_menu_game_play"
+msgstr "Oyna"
+
+# Blocks menu command
+msgid "game_me_blocks_menu_game_restart"
+msgstr "Yeniden başla"
+
+# Title of Load game dialog
+msgid "game_ti_load_game_title"
+msgstr "Oyunu seçin"
+
+# Title of Save game dialog
+msgid "game_ti_save_game_title"
+msgstr "Oyunu kaydet"
+
+#
+msgid "sfil_va_select_object_no_objects_games"
+msgstr "(oyun yok)"
+
+#
+msgid "sfil_va_save_object_name_stub_chess"
+msgstr "Satranç"
+
+# Title of Chess end game dialog
+msgid "game_ti_chess_end_game_title"
+msgstr "Oyun bitti"
+
+# Field item in Chess end game dialog, where %s is the player name/type
+msgid "game_fi_chess_end_game_description%s"
+msgstr "Şah mat – %s kazandı!"
+
+# Field item in Chess end game dialog (in a case of stalemate situations)
+msgid "game_fi_chess_end_game_tie_description"
+msgstr "Pat – Oyun berabere"
+
+# "OK" button in Chess end game dialog
+msgid "game_bd_chess_end_game_ok"
+msgstr "OK"
+
+# Title of Mahjong end game dialog
+msgid "game_ti_mahjong_end_game_title"
+msgstr "Oyun bitti"
+
+# Field item in Mahjong end game dialog
+# Where %.2d:%.2d is the achieved time in minutes:seconds and second %.2d:%.2d is the best time for the current board.
+msgid "game_fi_mahjong_end_game_description%s%.2d%.2d%.2d%.2d"
+msgstr ""
+"Pano: %s\n"
+"Temizlendiği süre: %.2d:%.2d\n"
+"\n"
+"En iyi zamanlama: %.2d:%.2d"
+
+# Mahjong level title
+msgid "game_fi_mahjong_game_board_1"
+msgstr "Standart"
+
+# Mahjong level title
+msgid "game_fi_mahjong_game_board_2"
+msgstr "Lotus çiçeği"
+
+# Mahjong level title
+msgid "game_fi_mahjong_game_board_3"
+msgstr "Şaşırtıcı çapraz"
+
+# Mahjong level title
+msgid "game_fi_mahjong_game_board_4"
+msgstr "Piramit Duvarları"
+
+# Mahjong level title
+msgid "game_fi_mahjong_game_board_5"
+msgstr "Tic-tac-toe"
+
+# Mahjong level title
+msgid "game_fi_mahjong_game_board_6"
+msgstr "Bulut"
+
+# Mahjong level title
+msgid "game_fi_mahjong_game_board_7"
+msgstr "Kızıl ejderha"
+
+# Mahjong level title
+msgid "game_fi_mahjong_game_board_8"
+msgstr "Dört köprü"
+
+# Field item in Mahjong end game dialog
+# Where %.2d:%.2d is the achieved time in minutes:seconds and %.2d:%.2d is the previous best time for the current board.
+msgid "game_fi_mahjong_end_game_description2%s%.2d%.2d%.2d%.2d"
+msgstr ""
+"Pano: %s\n"
+"Temizlendiği süre: %.2d:%.2d\n"
+"\n"
+"Yeni kişisel rekor!\n"
+"Önceki rekorunuz: %.2d:%.2d"
+
+# Field item in Mahjong end game dialog
+# Where %.2d:%.2d is the achieved time in minutes:seconds.
+msgid "game_fi_mahjong_end_game_description3%s%.2d%.2d"
+msgstr ""
+"Pano: %s\n"
+"Temizlendiği süre: %.2d:%.2d\n"
+"\n"
+"Yeni kişisel rekor!"
+
+# "OK" button in Mahjong end game dialog
+msgid "game_bd_mahjong_end_game_ok"
+msgstr "OK"
+
+# Title of Lmarbles congratulations dialog
+msgid "game_ti_lmarbles_congratulations_title"
+msgstr "Tebrikler!"
+
+# Field item in LMarbles congratulations dialog
+msgid "game_fi_lmarbles_congratulations_description"
+msgstr "Oyunu başarıyla tamamladınız!"
+
+# "OK" button in LMarbles congratulations dialog
+msgid "game_bd_lmarbles_congratulations_ok"
+msgstr "OK"
+
+# Title of promote pawn dialog
+msgid "game_ti_chess_promote_pawn_title"
+msgstr "Piyon terfisi"
+
+# Field item in promote pawn dialog
+msgid "game_fi_chess_promote_pawn_description"
+msgstr "Terfi et:"
+
+# "OK" button in promote pawn dialog
+msgid "game_bd_chess_promote_pawn_ok"
+msgstr "OK"
+
+# Title of high scores dialog
+msgid "game_ti_mahjong_high_scores_title"
+msgstr "Zamanlamalar"
+
+# Title of high scores column listbox
+msgid "game_ti_mahjong_high_scores_level"
+msgstr "Pano"
+
+# Title of high scores column listbox
+msgid "game_ti_mahjong_high_scores_time"
+msgstr "Zamanlama"
+
+# Title of high scores column listbox
+msgid "game_ti_mahjong_high_scores_date"
+msgstr "Tarih"
+
+# "Close" button in high scores dialog
+msgid "game_bd_mahjong_high_scores_close"
+msgstr "Kapat"
+
+# Title of Blocks end game dialog
+msgid "game_ti_blocks_end_game_title"
+msgstr "Oyun bitti"
+
+# Field item in Blocks end game dialog
+msgid "game_fi_blocks_end_game_description"
+msgstr "'Yeniden Başla' ya basın"
+
+# Text in Restart game confirmation note
+msgid "game_nc_restart_game"
+msgstr "Yeni oyuna başlansın mı?"
+
+# "Yes" button in Restart game confirmation note
+msgid "game_bd_restart_game_ok"
+msgstr "Evet"
+
+# "No" button in Restart game confirmation note
+msgid "game_bd_restart_game_cancel"
+msgstr "Hayır"
+
+# Text in Reset game progress confirmation note
+msgid "game_nc_reset_game_progress"
+msgstr "Oyunu sıfırlamak tüm açık seviyeleri kapatacak. Devam edilsin mi?"
+
+# "Yes" button in Reset game progress confirmation note
+msgid "game_bd_reset_game_progress_ok"
+msgstr "Evet"
+
+# "No" button in Reset game progress confirmation note
+msgid "game_bd_reset_game_progress_cancel"
+msgstr "Hayır"
+
+# Text in change level confirmation note
+# Where the first %d is the level number and the second %d is the chapter number
+msgid "game_nc_change_level"
+msgstr "Seviye %d / Bölüm %d ye girilsin mi?"
+
+# "Yes" button in change level confirmation note
+msgid "game_bd_change_level_ok"
+msgstr "Evet"
+
+# "No" button in change level confirmation note
+msgid "game_bd_change_level_cancel"
+msgstr "Hayır"
+
+# Infoprint: Item not available  (by selecting dimmed command in menu)
+msgid "game_ib_not_available"
+msgstr "Uygun değil"
+
+# Information note: Given when unable to open save game file format where %n file name of the save game
+msgid "game_ni_unsupported_file%s"
+msgstr ""
+"Açılamıyor %s.\n"
+"Dosya formatı desteklenmiyor."
+
+# Infoprint: Check!
+msgid "game_ib_chess_check"
+msgstr "Şah!"
+
+# Infoprint: Check-mate!
+msgid "game_ib_chess_check_mate"
+msgstr "Şah mat!"
+
+#
+msgid "game_ap_startup_name"
+msgstr "Start-up"
+
+#
+msgid "game_me_main_menu_close"
+msgstr "Kapat"
