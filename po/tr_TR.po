@@ -33,13 +33,16 @@ msgstr ""
 "Project-Id-Version: osso-games 20090202110755\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.02.02 11:07+0200\n"
-"PO-Revision-Date: 2010-05-29 21:33+0200\n"
-"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
-"Language-Team: tr_TR\n"
+"PO-Revision-Date: 2021-05-26 12:33+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-games-l10n/tr/>\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 # Information banner shown to the user when s/he changes the difficulty level during an active or paused game
 msgid "game_ib_changes_effect_next_game"
@@ -375,7 +378,7 @@ msgstr "Standart"
 
 # Mahjong menu command
 msgid "game_me_mahjong_menu_board_2"
-msgstr "Lotus flower"
+msgstr "Lotus çiçeği"
 
 # Mahjong menu command
 msgid "game_me_mahjong_menu_board_3"
