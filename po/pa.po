@@ -1,0 +1,480 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.02.02 11:07+0200\n"
+"PO-Revision-Date: 2010-11-30 11:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "game_ap_blocks_name"
+msgstr "ਬਲਾਕ"
+
+msgid "game_ap_chess_name"
+msgstr "ਸਤਰੰਜ਼"
+
+msgid "game_ap_mahjong_name"
+msgstr "ਮਹਿਜੌਂਗ"
+
+msgid "game_ap_marbles_name"
+msgstr "ਬੰਟੇ"
+
+msgid "game_ap_startup_name"
+msgstr "ਸ਼ੁਰੂਆਤ"
+
+msgid "game_bd_blocks_main_exit_to_menu"
+msgstr "ਮੇਨੂ ਤੋਂ ਬੰਦ ਕਰੋ"
+
+msgid "game_bd_blocks_main_restart"
+msgstr "ਮੁੜ-ਚਾਲੂ"
+
+msgid "game_bd_change_level_cancel"
+msgstr "ਨਹੀਂ"
+
+msgid "game_bd_change_level_ok"
+msgstr "ਹਾਂ"
+
+msgid "game_bd_chess_end_game_ok"
+msgstr "ਠੀਕ ਹੈ"
+
+msgid "game_bd_chess_promote_pawn_ok"
+msgstr "ਠੀਕ ਹੈ"
+
+msgid "game_bd_lmarbles_congratulations_ok"
+msgstr "ਠੀਕ ਹੈ"
+
+msgid "game_bd_mahjong_end_game_ok"
+msgstr "ਠੀਕ ਹੈ"
+
+msgid "game_bd_mahjong_high_scores_close"
+msgstr "ਬੰਦ ਕਰੋ"
+
+msgid "game_bd_reset_game_progress_cancel"
+msgstr "ਨਹੀਂ"
+
+msgid "game_bd_reset_game_progress_ok"
+msgstr "ਹਾਂ"
+
+msgid "game_bd_restart_game_cancel"
+msgstr "ਨਹੀਂ"
+
+msgid "game_bd_restart_game_ok"
+msgstr "ਹਾਂ"
+
+msgid "game_bu_mahjong_settings_high_scores"
+msgstr "ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ"
+
+msgid "game_bv_startup_continue"
+msgstr "ਜਾਰੀ ਰੱਖੋ"
+
+msgid "game_bv_startup_play"
+msgstr "ਖੇਡੋ"
+
+msgid "game_bv_startup_restart"
+msgstr "ਮੁੜ-ਚਾਲੂ ਕਰੋ"
+
+msgid "game_fi_blocks_end_game_description"
+msgstr "ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ 'ਮੁੜ-ਚਾਲੂ' ਨੂੰ ਛੂਹੋ"
+
+msgid "game_fi_blocks_main_level"
+msgstr "ਲੈਵਲ"
+
+msgid "game_fi_blocks_main_lines"
+msgstr "ਲਾਈਨਾਂ"
+
+msgid "game_fi_blocks_main_next"
+msgstr "ਅੱਗੇ"
+
+msgid "game_fi_blocks_main_score"
+msgstr "ਸਕੋਰ"
+
+msgid "game_fi_blocks_settings_difficulty"
+msgstr "ਬਲਾਕ ਸਪੀਡ"
+
+msgid "game_fi_blocks_settings_noise_height"
+msgstr "ਸ਼ੁਰੂਆਤੀ ਉਚਾਈ"
+
+msgid "game_fi_blocks_settings_noise_level"
+msgstr "ਸ਼ੁਰੂਆਤੀ ਘਣਤਾ"
+
+msgid "game_fi_chess_computer_title"
+msgstr "ਕੰਪਿਊਟਰ"
+
+msgid "game_fi_chess_end_game_description%s"
+msgstr "Checkmate – %s wins!"
+
+msgid "game_fi_chess_end_game_tie_description"
+msgstr "Stalemate – A draw"
+
+msgid "game_fi_chess_player_1_title"
+msgstr "ਖਿਡਾਰੀ ੧"
+
+msgid "game_fi_chess_player_2_title"
+msgstr "ਖਿਡਾਰੀ ੨"
+
+msgid "game_fi_chess_promote_pawn_description"
+msgstr "Promote to:"
+
+msgid "game_fi_chess_settings_human"
+msgstr "ਖਿਡਾਰੀ ੧"
+
+msgid "game_fi_chess_settings_legal_moves"
+msgstr "ਸੰਭਵ ਚਾਲਾਂ ਵੇਖੋ"
+
+msgid "game_fi_chess_settings_opponent"
+msgstr "ਵਿਰੋਧੀ"
+
+msgid "game_fi_chess_settings_sound"
+msgstr "ਸਾਊਂਡ ਪਰਭਾਵ"
+
+msgid "game_fi_lmarbles_congratulations_description"
+msgstr "ਤੁਸੀਂ ਸਫ਼ਲਤਾਪੂਰਕ ਖੇਡ ਪੂਰੀ ਕਰ ਚੁੱਕੇ ਹੋ!"
+
+msgid "game_fi_lmarbles_main_chapter_level"
+msgstr "ਕਾਂਡ %d, ਲੈਵਲ %d"
+
+msgid "game_fi_lmarbles_main_high_score"
+msgstr "ਉੱਚ ਸਕੋਰ: %d"
+
+msgid "game_fi_lmarbles_main_level_bonus"
+msgstr "ਲੈਵਲ ਬੋਨਸ:"
+
+msgid "game_fi_lmarbles_main_move_bonus"
+msgstr "ਚਾਲ ਬੋਨਸ:"
+
+msgid "game_fi_lmarbles_main_moves"
+msgstr "ਚਾਲਾਂ: %d"
+
+msgid "game_fi_lmarbles_main_score"
+msgstr "ਸਕੋਰ: %d"
+
+msgid "game_fi_lmarbles_main_total_score"
+msgstr "ਕੁੱਲ ਸਕੋਰ:"
+
+msgid "game_fi_lmarbles_settings_difficulty"
+msgstr "ਔਖਿਆਈ ਲੈਵਲ"
+
+msgid "game_fi_lmarbles_settings_sound"
+msgstr "ਸਾਊਂਡ ਪਰਭਾਵ"
+
+msgid "game_fi_mahjong_end_game_description%s%.2d%.2d%.2d%.2d"
+msgstr "Board: %s\nBoard cleared in %.2d:%.2d\n\nBest time for board: %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description2%s%.2d%.2d%.2d%.2d"
+msgstr "Board: %s\nBoard cleared in %.2d:%.2d\n\nNew personal best!\nPrevious best: %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description3%s%.2d%.2d"
+msgstr "Board: %s\nBoard cleared in %.2d:%.2d\n\nNew personal best!"
+
+msgid "game_fi_mahjong_game_board_1"
+msgstr "ਸਟੈਂਡਰਡ"
+
+msgid "game_fi_mahjong_game_board_2"
+msgstr "ਕੰਵਲ ਦਾ ਫੁੱਲ"
+
+msgid "game_fi_mahjong_game_board_3"
+msgstr "Confounding cross"
+
+msgid "game_fi_mahjong_game_board_4"
+msgstr "ਮੀਨਾਰ ਦੀਆਂ ਕੰਧਾਂ"
+
+msgid "game_fi_mahjong_game_board_5"
+msgstr "Tic-tac-toe"
+
+msgid "game_fi_mahjong_game_board_6"
+msgstr "ਬੱਦਲ"
+
+msgid "game_fi_mahjong_game_board_7"
+msgstr "ਲਾਲ ਸ਼ੈਤਾਨ"
+
+msgid "game_fi_mahjong_game_board_8"
+msgstr "ਚਾਰ ਪੁੱਲ"
+
+msgid "game_fi_mahjong_settings_board"
+msgstr "ਬੋਰਡ"
+
+msgid "game_fi_mahjong_settings_sound"
+msgstr "ਸਾਊਂਡ ਪਰਭਾਵ"
+
+msgid "game_ia_startup_not_started"
+msgstr "ਖੇਡ ਹਾਲੇ ਸ਼ੁਰੂ ਨਹੀਂ ਹੋਈ"
+
+msgid "game_ia_startup_paused"
+msgstr "ਖੇਡ ਵਿਰਾਮ"
+
+msgid "game_ib_changes_effect_next_game"
+msgstr "ਬਦਲਾਅ ਅਗਲੀ ਖੇਡ ਤੋਂ ਲਾਗੂ ਹੋਣਗੇ"
+
+msgid "game_ib_chess_check"
+msgstr "ਚੈੱਕ ਕਰੋ!"
+
+msgid "game_ib_chess_check_mate"
+msgstr "Checkmate!"
+
+msgid "game_ib_not_available"
+msgstr "ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "game_me_blocks_main_menu_game"
+msgstr "ਖੇਡ"
+
+msgid "game_me_blocks_menu_game_play"
+msgstr "ਖੇਡੋ"
+
+msgid "game_me_blocks_menu_game_restart"
+msgstr "ਮੁੜ-ਚਾਲੂ"
+
+msgid "game_me_chess_main_menu_game"
+msgstr "ਖੇਡ"
+
+msgid "game_me_chess_main_menu_recent"
+msgstr "ਤਾਜ਼ਾ"
+
+msgid "game_me_chess_main_menu_settings"
+msgstr "ਸੈਟਿੰਗ"
+
+msgid "game_me_chess_menu_game_open"
+msgstr "ਖੋਲ੍ਹੋ"
+
+msgid "game_me_chess_menu_game_play"
+msgstr "ਖੇਡੋ"
+
+msgid "game_me_chess_menu_game_restart"
+msgstr "ਮੁੜ-ਚਾਲੂ"
+
+msgid "game_me_chess_menu_game_save"
+msgstr "ਸੰਭਾਲੋ"
+
+msgid "game_me_chess_menu_game_save_as"
+msgstr "ਇੰਝ ਸੰਭਾਲੋ"
+
+msgid "game_me_chess_menu_settings_human"
+msgstr "ਖਿਡਾਰੀ ੧"
+
+msgid "game_me_chess_menu_settings_human_black"
+msgstr "ਕਾਲਾ"
+
+msgid "game_me_chess_menu_settings_human_white"
+msgstr "ਚਿੱਟਾ"
+
+msgid "game_me_chess_menu_settings_legal_moves"
+msgstr "ਸੰਭਵ ਚਾਲਾਂ ਵੇਖੋ"
+
+msgid "game_me_chess_menu_settings_opponent"
+msgstr "ਵਿਰੋਧੀ"
+
+msgid "game_me_chess_menu_settings_opponent_1"
+msgstr "ਸੌਖੀ"
+
+msgid "game_me_chess_menu_settings_opponent_2"
+msgstr "ਮੱਧਮ"
+
+msgid "game_me_chess_menu_settings_opponent_3"
+msgstr "ਤਕਨੀਕੀ"
+
+msgid "game_me_chess_menu_settings_opponent_4"
+msgstr "ਮਾਹਰ"
+
+msgid "game_me_chess_menu_settings_opponent_human"
+msgstr "ਖਿਡਾਰੀ ੨"
+
+msgid "game_me_chess_menu_settings_sound"
+msgstr "ਸਾਊਂਡ"
+
+msgid "game_me_lmarbles_main_menu_game"
+msgstr "ਖੇਡ"
+
+msgid "game_me_lmarbles_main_menu_settings"
+msgstr "ਸੈਟਿੰਗ"
+
+msgid "game_me_lmarbles_menu_game_play"
+msgstr "ਖੇਡੋ"
+
+msgid "game_me_lmarbles_menu_game_restart"
+msgstr "ਮੁੜ-ਚਾਲੂ"
+
+msgid "game_me_lmarbles_menu_settings_brainstorm"
+msgstr "Brainstorm"
+
+msgid "game_me_lmarbles_menu_settings_easy"
+msgstr "ਸੌਖੀ"
+
+msgid "game_me_lmarbles_menu_settings_hard"
+msgstr "ਤਕਨੀਕੀ"
+
+msgid "game_me_lmarbles_menu_settings_normal"
+msgstr "ਸਧਾਰਨ"
+
+msgid "game_me_lmarbles_menu_settings_reset"
+msgstr "ਮੁੜ-ਸੈੱਟ"
+
+msgid "game_me_lmarbles_menu_settings_reset_progress"
+msgstr "ਖੇਡ ਤਰੱਕੀ ਮੁੜ-ਸੈੱਟ ਕਰੋ"
+
+msgid "game_me_lmarbles_menu_settings_sound"
+msgstr "ਸਾਊਂਡ"
+
+msgid "game_me_mahjong_main_menu_board"
+msgstr "ਬੋਰਡ"
+
+msgid "game_me_mahjong_main_menu_game"
+msgstr "ਖੇਡ"
+
+msgid "game_me_mahjong_main_menu_settings"
+msgstr "ਸੈਟਿੰਗ"
+
+msgid "game_me_mahjong_main_menu_tools"
+msgstr "ਟੂਲ"
+
+msgid "game_me_mahjong_menu_board_1"
+msgstr "ਸਟੈਂਡਰਡ"
+
+msgid "game_me_mahjong_menu_board_2"
+msgstr "ਕੰਵਲ ਦਾ ਫੁੱਲ"
+
+msgid "game_me_mahjong_menu_board_3"
+msgstr "Confounding cross"
+
+msgid "game_me_mahjong_menu_board_4"
+msgstr "ਮੀਨਾਰ ਦੀਆਂ ਕੰਧਾਂ"
+
+msgid "game_me_mahjong_menu_board_5"
+msgstr "Tic-tac-toe"
+
+msgid "game_me_mahjong_menu_board_6"
+msgstr "ਬੱਦਲ"
+
+msgid "game_me_mahjong_menu_board_7"
+msgstr "ਲਾਲ ਸ਼ੈਤਾਨ"
+
+msgid "game_me_mahjong_menu_board_8"
+msgstr "ਚਾਰ ਪੁੱਲ"
+
+msgid "game_me_mahjong_menu_game_play"
+msgstr "ਖੇਡੋ"
+
+msgid "game_me_mahjong_menu_game_restart"
+msgstr "ਮੁੜ-ਚਾਲੂ"
+
+msgid "game_me_mahjong_menu_settings_sound"
+msgstr "ਸਾਊਂਡ"
+
+msgid "game_me_mahjong_menu_tools_high_scores"
+msgstr "ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ"
+
+msgid "game_me_main_menu_close"
+msgstr "ਬੰਦ ਕਰੋ"
+
+msgid "game_nc_change_level"
+msgstr "Enter level %d of chapter %d?"
+
+msgid "game_nc_reset_game_progress"
+msgstr "Resetting the game will close all opened levels. Continue anyway?"
+
+msgid "game_nc_restart_game"
+msgstr "ਨਵੀਂ ਖੇਡ ਸ਼ੁਰੂ ਕਰਨੀ ਹੈ?"
+
+msgid "game_ni_unsupported_file%s"
+msgstr "Unable to open %s.\nFile format not supported."
+
+msgid "game_ti_blocks_end_game_title"
+msgstr "ਖੇਡ ਖਤਮ"
+
+msgid "game_ti_chess_end_game_title"
+msgstr "ਖੇਡ ਖਤਮ"
+
+msgid "game_ti_chess_promote_pawn_title"
+msgstr "Promote pawn"
+
+msgid "game_ti_lmarbles_congratulations_title"
+msgstr "ਵਧਾਈਆਂ!"
+
+msgid "game_ti_load_game_title"
+msgstr "ਖੇਡ ਲੋਡ ਕਰੋ"
+
+msgid "game_ti_mahjong_end_game_title"
+msgstr "ਖੇਡ ਖਤਮ"
+
+msgid "game_ti_mahjong_high_scores_date"
+msgstr "ਮਿਤੀ"
+
+msgid "game_ti_mahjong_high_scores_level"
+msgstr "ਬੋਰਡ"
+
+msgid "game_ti_mahjong_high_scores_time"
+msgstr "ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ"
+
+msgid "game_ti_mahjong_high_scores_title"
+msgstr "ਸਭ ਤੋਂ ਵਧੀਆ ਸਮੇਂ"
+
+msgid "game_ti_save_game_title"
+msgstr "ਖੇਡ ਸੰਭਾਲੋ"
+
+msgid "game_va_chess_settings_human_black"
+msgstr "ਕਾਲੇ"
+
+msgid "game_va_chess_settings_human_white"
+msgstr "ਚਿੱਟੇ"
+
+msgid "game_va_chess_settings_opponent_easy"
+msgstr "ਸੌਖੀ"
+
+msgid "game_va_chess_settings_opponent_expert"
+msgstr "ਮਾਹਰ"
+
+msgid "game_va_chess_settings_opponent_hard"
+msgstr "ਤਕਨੀਕੀ"
+
+msgid "game_va_chess_settings_opponent_human"
+msgstr "ਖਿਡਾਰੀ ੨"
+
+msgid "game_va_chess_settings_opponent_medium"
+msgstr "ਮੱਧਮ"
+
+msgid "game_va_lmarbles_settings_difficulty_1"
+msgstr "ਸੌਖੀ"
+
+msgid "game_va_lmarbles_settings_difficulty_2"
+msgstr "ਸਧਾਰਨ"
+
+msgid "game_va_lmarbles_settings_difficulty_3"
+msgstr "ਤਕਨੀਕੀ"
+
+msgid "game_va_lmarbles_settings_difficulty_4"
+msgstr "Brainstorm"
+
+msgid "game_va_mahjong_settings_board_1"
+msgstr "ਸਟੈਂਡਰਡ"
+
+msgid "game_va_mahjong_settings_board_2"
+msgstr "ਕੰਵਲ ਦਾ ਫੁੱਲ"
+
+msgid "game_va_mahjong_settings_board_3"
+msgstr "Confounding cross"
+
+msgid "game_va_mahjong_settings_board_4"
+msgstr "ਮੀਨਾਰ ਦੀਆਂ ਕੰਧਾਂ"
+
+msgid "game_va_mahjong_settings_board_5"
+msgstr "Tic-tac-toe"
+
+msgid "game_va_mahjong_settings_board_6"
+msgstr "ਬੱਦਲ"
+
+msgid "game_va_mahjong_settings_board_7"
+msgstr "ਲਾਲ ਸ਼ੈਤਾਨ"
+
+msgid "game_va_mahjong_settings_board_8"
+msgstr "ਚਾਰ ਪੁੱਲ"
+
+msgid "sfil_va_save_object_name_stub_chess"
+msgstr "ਸਤਰੰਜ਼"
+
+msgid "sfil_va_select_object_no_objects_games"
+msgstr "(ਖੇਡ ਨਹੀਂ)"
