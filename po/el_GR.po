@@ -1,0 +1,480 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.02.02 11:07+0200\n"
+"PO-Revision-Date: 2010-11-30 11:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "game_ap_blocks_name"
+msgstr "Blocks"
+
+msgid "game_ap_chess_name"
+msgstr "Σκάκι"
+
+msgid "game_ap_mahjong_name"
+msgstr "Mahjong"
+
+msgid "game_ap_marbles_name"
+msgstr "Marbles"
+
+msgid "game_ap_startup_name"
+msgstr "Εκκίνηση"
+
+msgid "game_bd_blocks_main_exit_to_menu"
+msgstr "Mενού"
+
+msgid "game_bd_blocks_main_restart"
+msgstr "Επανεκκίνηση"
+
+msgid "game_bd_change_level_cancel"
+msgstr "Όχι"
+
+msgid "game_bd_change_level_ok"
+msgstr "Ναι"
+
+msgid "game_bd_chess_end_game_ok"
+msgstr "OK"
+
+msgid "game_bd_chess_promote_pawn_ok"
+msgstr "OK"
+
+msgid "game_bd_lmarbles_congratulations_ok"
+msgstr "OK"
+
+msgid "game_bd_mahjong_end_game_ok"
+msgstr "OK"
+
+msgid "game_bd_mahjong_high_scores_close"
+msgstr "Κλείσιμο"
+
+msgid "game_bd_reset_game_progress_cancel"
+msgstr "Όχι"
+
+msgid "game_bd_reset_game_progress_ok"
+msgstr "Ναι"
+
+msgid "game_bd_restart_game_cancel"
+msgstr "Όχι"
+
+msgid "game_bd_restart_game_ok"
+msgstr "Ναι"
+
+msgid "game_bu_mahjong_settings_high_scores"
+msgstr "Καλύτεροι χρόνοι"
+
+msgid "game_bv_startup_continue"
+msgstr "Συνέχεια"
+
+msgid "game_bv_startup_play"
+msgstr "Έναρξη"
+
+msgid "game_bv_startup_restart"
+msgstr "Επανεκκίνηση"
+
+msgid "game_fi_blocks_end_game_description"
+msgstr "Πατήσtε 'Επανεκκίνηση' για να δοκιμάσεtε πάλι"
+
+msgid "game_fi_blocks_main_level"
+msgstr "Επίπεδο"
+
+msgid "game_fi_blocks_main_lines"
+msgstr "Γραμμή"
+
+msgid "game_fi_blocks_main_next"
+msgstr "Επόμενο"
+
+msgid "game_fi_blocks_main_score"
+msgstr "Σκόρ"
+
+msgid "game_fi_blocks_settings_difficulty"
+msgstr "Ταχύτητα Block"
+
+msgid "game_fi_blocks_settings_noise_height"
+msgstr "Ύψος εκκίνησης"
+
+msgid "game_fi_blocks_settings_noise_level"
+msgstr "Πυκνότητα εκκίνησης"
+
+msgid "game_fi_chess_computer_title"
+msgstr "Κομπιούτερ"
+
+msgid "game_fi_chess_end_game_description%s"
+msgstr "Ματ – %s κέρδισε!"
+
+msgid "game_fi_chess_end_game_tie_description"
+msgstr "Αδιέξοδο - Ισοπαλία"
+
+msgid "game_fi_chess_player_1_title"
+msgstr "Παίκτης 1"
+
+msgid "game_fi_chess_player_2_title"
+msgstr "Παίκτης 2"
+
+msgid "game_fi_chess_promote_pawn_description"
+msgstr "Άλλαξε σε:"
+
+msgid "game_fi_chess_settings_human"
+msgstr "Παίκτης 1"
+
+msgid "game_fi_chess_settings_legal_moves"
+msgstr "Εμφάνιση έγκυρων κινήσεων"
+
+msgid "game_fi_chess_settings_opponent"
+msgstr "Αντίπαλος"
+
+msgid "game_fi_chess_settings_sound"
+msgstr "Ρύθμιση ήχου"
+
+msgid "game_fi_lmarbles_congratulations_description"
+msgstr "Έχετε ολοκληρώσει επιτυχημένα το παιχνίδι!"
+
+msgid "game_fi_lmarbles_main_chapter_level"
+msgstr "Κεφάλαιο %d, Επίπεδο %d"
+
+msgid "game_fi_lmarbles_main_high_score"
+msgstr "Υψηλότερο σκορ: %d"
+
+msgid "game_fi_lmarbles_main_level_bonus"
+msgstr "Επίπεδο Bonus:"
+
+msgid "game_fi_lmarbles_main_move_bonus"
+msgstr "Bonus Κινήσεων:"
+
+msgid "game_fi_lmarbles_main_moves"
+msgstr "Κινήσεις: %d"
+
+msgid "game_fi_lmarbles_main_score"
+msgstr "Σκορ: %d"
+
+msgid "game_fi_lmarbles_main_total_score"
+msgstr "Συνολικό σκορ:"
+
+msgid "game_fi_lmarbles_settings_difficulty"
+msgstr "Επίπεδο δυσκολίας"
+
+msgid "game_fi_lmarbles_settings_sound"
+msgstr "Ηχητικά εφέ"
+
+msgid "game_fi_mahjong_end_game_description%s%.2d%.2d%.2d%.2d"
+msgstr "Board: %s\nBoard cleared in %.2d:%.2d\n\nBest time for board: %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description2%s%.2d%.2d%.2d%.2d"
+msgstr "Board: %s\nBoard cleared in %.2d:%.2d\n\nNew personal best!\nPrevious best: %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description3%s%.2d%.2d"
+msgstr "Board: %s\nBoard cleared in %.2d:%.2d\n\nNew personal best!"
+
+msgid "game_fi_mahjong_game_board_1"
+msgstr "Κανονικό"
+
+msgid "game_fi_mahjong_game_board_2"
+msgstr "Λωτός"
+
+msgid "game_fi_mahjong_game_board_3"
+msgstr "Confounding cross"
+
+msgid "game_fi_mahjong_game_board_4"
+msgstr "Τείχος Πυραμιδας"
+
+msgid "game_fi_mahjong_game_board_5"
+msgstr "Τρίλιζα"
+
+msgid "game_fi_mahjong_game_board_6"
+msgstr "Σύννεφο"
+
+msgid "game_fi_mahjong_game_board_7"
+msgstr "Κόκκινος Δράκος"
+
+msgid "game_fi_mahjong_game_board_8"
+msgstr "4 Γέφυρες"
+
+msgid "game_fi_mahjong_settings_board"
+msgstr "Πίνακας"
+
+msgid "game_fi_mahjong_settings_sound"
+msgstr "Ρύθμιση ήχου"
+
+msgid "game_ia_startup_not_started"
+msgstr "Το παιχνίδι δεν ξεκίνησε ακόμα"
+
+msgid "game_ia_startup_paused"
+msgstr "Παύση παιχνιδιού"
+
+msgid "game_ib_changes_effect_next_game"
+msgstr "Οι αλλαγές θα ισχύσουν από το επόμενο παιχνίδι"
+
+msgid "game_ib_chess_check"
+msgstr "Ρουά!"
+
+msgid "game_ib_chess_check_mate"
+msgstr "Ρουά Ματ!"
+
+msgid "game_ib_not_available"
+msgstr "Μη διαθέσιμο"
+
+msgid "game_me_blocks_main_menu_game"
+msgstr "Παιχνίδι"
+
+msgid "game_me_blocks_menu_game_play"
+msgstr "Παίξε"
+
+msgid "game_me_blocks_menu_game_restart"
+msgstr "Επανεκκίνηση"
+
+msgid "game_me_chess_main_menu_game"
+msgstr "Παιχνίδι"
+
+msgid "game_me_chess_main_menu_recent"
+msgstr "Πρόσφατο"
+
+msgid "game_me_chess_main_menu_settings"
+msgstr "Ρυθμίσεις"
+
+msgid "game_me_chess_menu_game_open"
+msgstr "Άνοιγμα"
+
+msgid "game_me_chess_menu_game_play"
+msgstr "Παίξε"
+
+msgid "game_me_chess_menu_game_restart"
+msgstr "Επανεκκίνηση"
+
+msgid "game_me_chess_menu_game_save"
+msgstr "Αποθήκευση"
+
+msgid "game_me_chess_menu_game_save_as"
+msgstr "Αποθήκευση ως"
+
+msgid "game_me_chess_menu_settings_human"
+msgstr "Παίκτης 1"
+
+msgid "game_me_chess_menu_settings_human_black"
+msgstr "Μαύρα"
+
+msgid "game_me_chess_menu_settings_human_white"
+msgstr "Λευκά"
+
+msgid "game_me_chess_menu_settings_legal_moves"
+msgstr "Επιτρεπόμενες κινήσεις"
+
+msgid "game_me_chess_menu_settings_opponent"
+msgstr "Αντίπαλος"
+
+msgid "game_me_chess_menu_settings_opponent_1"
+msgstr "Εύκολο"
+
+msgid "game_me_chess_menu_settings_opponent_2"
+msgstr "Μεσαίο"
+
+msgid "game_me_chess_menu_settings_opponent_3"
+msgstr "Προχωρημένος"
+
+msgid "game_me_chess_menu_settings_opponent_4"
+msgstr "Έμπειρος"
+
+msgid "game_me_chess_menu_settings_opponent_human"
+msgstr "Παίκτης 2"
+
+msgid "game_me_chess_menu_settings_sound"
+msgstr "Ήχος"
+
+msgid "game_me_lmarbles_main_menu_game"
+msgstr "Παιχνίδι"
+
+msgid "game_me_lmarbles_main_menu_settings"
+msgstr "Ρυθμίσεις"
+
+msgid "game_me_lmarbles_menu_game_play"
+msgstr "Παίξε"
+
+msgid "game_me_lmarbles_menu_game_restart"
+msgstr "Επανεκκίνηση"
+
+msgid "game_me_lmarbles_menu_settings_brainstorm"
+msgstr "Έμπνευση"
+
+msgid "game_me_lmarbles_menu_settings_easy"
+msgstr "Εύκολο"
+
+msgid "game_me_lmarbles_menu_settings_hard"
+msgstr "Προχωρημένο"
+
+msgid "game_me_lmarbles_menu_settings_normal"
+msgstr "Κανονικό"
+
+msgid "game_me_lmarbles_menu_settings_reset"
+msgstr "Μηδενισμός"
+
+msgid "game_me_lmarbles_menu_settings_reset_progress"
+msgstr "Μηδενισμός προόδου παιχνιδιού"
+
+msgid "game_me_lmarbles_menu_settings_sound"
+msgstr "Ήχος"
+
+msgid "game_me_mahjong_main_menu_board"
+msgstr "Πίνακας"
+
+msgid "game_me_mahjong_main_menu_game"
+msgstr "Παιχνίδι"
+
+msgid "game_me_mahjong_main_menu_settings"
+msgstr "Ρυθμίσεις"
+
+msgid "game_me_mahjong_main_menu_tools"
+msgstr "Εργαλεία"
+
+msgid "game_me_mahjong_menu_board_1"
+msgstr "Κανονικό"
+
+msgid "game_me_mahjong_menu_board_2"
+msgstr "Λωτός"
+
+msgid "game_me_mahjong_menu_board_3"
+msgstr "Confounding cross"
+
+msgid "game_me_mahjong_menu_board_4"
+msgstr "Τείχος Πυραμίδας"
+
+msgid "game_me_mahjong_menu_board_5"
+msgstr "Τρίλιζα"
+
+msgid "game_me_mahjong_menu_board_6"
+msgstr "Σύννεφο"
+
+msgid "game_me_mahjong_menu_board_7"
+msgstr "Κόκκινος Δράκος"
+
+msgid "game_me_mahjong_menu_board_8"
+msgstr "4 Γέφυρες"
+
+msgid "game_me_mahjong_menu_game_play"
+msgstr "Παίξε"
+
+msgid "game_me_mahjong_menu_game_restart"
+msgstr "Επανεκκίνηση"
+
+msgid "game_me_mahjong_menu_settings_sound"
+msgstr "Ηχος"
+
+msgid "game_me_mahjong_menu_tools_high_scores"
+msgstr "Καλύτεροι χρόνοι"
+
+msgid "game_me_main_menu_close"
+msgstr "Κλείσιμο"
+
+msgid "game_nc_change_level"
+msgstr "Enter level %d of chapter %d?"
+
+msgid "game_nc_reset_game_progress"
+msgstr "Θα κλείσουν όλα τα ενεργά επίπεδα. Συνέχεια έτσι κι αλλιώς;"
+
+msgid "game_nc_restart_game"
+msgstr "Ξεκίνημα νέου παιχνιδιού;"
+
+msgid "game_ni_unsupported_file%s"
+msgstr "Αδυναμία ανοίγματος %s.\nΔεν υποστηρίζεται ο τύπος αρχείου."
+
+msgid "game_ti_blocks_end_game_title"
+msgstr "Τέλος παιχνιδιού"
+
+msgid "game_ti_chess_end_game_title"
+msgstr "Τέλος παιχνιδιού"
+
+msgid "game_ti_chess_promote_pawn_title"
+msgstr "Αλλαγή πιονιού σε"
+
+msgid "game_ti_lmarbles_congratulations_title"
+msgstr "Συγχαρητήρια!"
+
+msgid "game_ti_load_game_title"
+msgstr "Άνοιγμα παιχνιδιού"
+
+msgid "game_ti_mahjong_end_game_title"
+msgstr "Τέλος παιχνιδιού"
+
+msgid "game_ti_mahjong_high_scores_date"
+msgstr "Ημέρα"
+
+msgid "game_ti_mahjong_high_scores_level"
+msgstr "Board"
+
+msgid "game_ti_mahjong_high_scores_time"
+msgstr "Καλύτερος χρόνος"
+
+msgid "game_ti_mahjong_high_scores_title"
+msgstr "Καλύτεροι χρόνοι"
+
+msgid "game_ti_save_game_title"
+msgstr "Αποθήκευση παιχνιδιού"
+
+msgid "game_va_chess_settings_human_black"
+msgstr "Μαύρα"
+
+msgid "game_va_chess_settings_human_white"
+msgstr "Λευκά"
+
+msgid "game_va_chess_settings_opponent_easy"
+msgstr "Εύκολο"
+
+msgid "game_va_chess_settings_opponent_expert"
+msgstr "Έμπειρος"
+
+msgid "game_va_chess_settings_opponent_hard"
+msgstr "Προχωρημένος"
+
+msgid "game_va_chess_settings_opponent_human"
+msgstr "Παίκτης 2"
+
+msgid "game_va_chess_settings_opponent_medium"
+msgstr "Μεσαίο"
+
+msgid "game_va_lmarbles_settings_difficulty_1"
+msgstr "Εύκολο"
+
+msgid "game_va_lmarbles_settings_difficulty_2"
+msgstr "Κανονική"
+
+msgid "game_va_lmarbles_settings_difficulty_3"
+msgstr "Προχωρημένο"
+
+msgid "game_va_lmarbles_settings_difficulty_4"
+msgstr "Brainstorm"
+
+msgid "game_va_mahjong_settings_board_1"
+msgstr "Κανονικό"
+
+msgid "game_va_mahjong_settings_board_2"
+msgstr "Λωτός"
+
+msgid "game_va_mahjong_settings_board_3"
+msgstr "Confounding cross"
+
+msgid "game_va_mahjong_settings_board_4"
+msgstr "Τείχος Πυραμίδας"
+
+msgid "game_va_mahjong_settings_board_5"
+msgstr "Τρίλιζα"
+
+msgid "game_va_mahjong_settings_board_6"
+msgstr "Σύννεφο"
+
+msgid "game_va_mahjong_settings_board_7"
+msgstr "Κόκκινος Δράκος"
+
+msgid "game_va_mahjong_settings_board_8"
+msgstr "4 Γέφυρες"
+
+msgid "sfil_va_save_object_name_stub_chess"
+msgstr "Σκάκι"
+
+msgid "sfil_va_select_object_no_objects_games"
+msgstr "(χωρίς παιχνίδια)"
