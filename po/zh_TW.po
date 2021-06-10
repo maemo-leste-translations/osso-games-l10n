@@ -1,0 +1,480 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.02.02 11:07+0200\n"
+"PO-Revision-Date: 2010-11-30 11:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "game_ap_blocks_name"
+msgstr "俄羅斯方塊"
+
+msgid "game_ap_chess_name"
+msgstr "國際象棋"
+
+msgid "game_ap_mahjong_name"
+msgstr "麻將"
+
+msgid "game_ap_marbles_name"
+msgstr "彈珠"
+
+msgid "game_ap_startup_name"
+msgstr "啟動"
+
+msgid "game_bd_blocks_main_exit_to_menu"
+msgstr "Exit to menu"
+
+msgid "game_bd_blocks_main_restart"
+msgstr "Restart"
+
+msgid "game_bd_change_level_cancel"
+msgstr "No"
+
+msgid "game_bd_change_level_ok"
+msgstr "Yes"
+
+msgid "game_bd_chess_end_game_ok"
+msgstr "確定"
+
+msgid "game_bd_chess_promote_pawn_ok"
+msgstr "確定"
+
+msgid "game_bd_lmarbles_congratulations_ok"
+msgstr "確定"
+
+msgid "game_bd_mahjong_end_game_ok"
+msgstr "確定"
+
+msgid "game_bd_mahjong_high_scores_close"
+msgstr "關閉"
+
+msgid "game_bd_reset_game_progress_cancel"
+msgstr "取消"
+
+msgid "game_bd_reset_game_progress_ok"
+msgstr "確定"
+
+msgid "game_bd_restart_game_cancel"
+msgstr "取消"
+
+msgid "game_bd_restart_game_ok"
+msgstr "確定"
+
+msgid "game_bu_mahjong_settings_high_scores"
+msgstr "最佳成績"
+
+msgid "game_bv_startup_continue"
+msgstr "繼續遊戲"
+
+msgid "game_bv_startup_play"
+msgstr "開始遊戲"
+
+msgid "game_bv_startup_restart"
+msgstr "重新開始"
+
+msgid "game_fi_blocks_end_game_description"
+msgstr "Tap 'Restart' to try again"
+
+msgid "game_fi_blocks_main_level"
+msgstr "Level"
+
+msgid "game_fi_blocks_main_lines"
+msgstr "Lines"
+
+msgid "game_fi_blocks_main_next"
+msgstr "Next"
+
+msgid "game_fi_blocks_main_score"
+msgstr "Score"
+
+msgid "game_fi_blocks_settings_difficulty"
+msgstr "方塊移動速度"
+
+msgid "game_fi_blocks_settings_noise_height"
+msgstr "開始時的方塊高度:"
+
+msgid "game_fi_blocks_settings_noise_level"
+msgstr "開始時的方塊密度"
+
+msgid "game_fi_chess_computer_title"
+msgstr "電腦"
+
+msgid "game_fi_chess_end_game_description%s"
+msgstr "將死 – %s 獲勝!"
+
+msgid "game_fi_chess_end_game_tie_description"
+msgstr "僵局 – 平手"
+
+msgid "game_fi_chess_player_1_title"
+msgstr "玩家 1"
+
+msgid "game_fi_chess_player_2_title"
+msgstr "玩家 2"
+
+msgid "game_fi_chess_promote_pawn_description"
+msgstr "提升為:"
+
+msgid "game_fi_chess_settings_human"
+msgstr "玩家 1"
+
+msgid "game_fi_chess_settings_legal_moves"
+msgstr "顯示遊戲規則"
+
+msgid "game_fi_chess_settings_opponent"
+msgstr "對手"
+
+msgid "game_fi_chess_settings_sound"
+msgstr "音效"
+
+msgid "game_fi_lmarbles_congratulations_description"
+msgstr "You have successfully completed the game!"
+
+msgid "game_fi_lmarbles_main_chapter_level"
+msgstr "Chapter %d, Level %d"
+
+msgid "game_fi_lmarbles_main_high_score"
+msgstr "High score: %d"
+
+msgid "game_fi_lmarbles_main_level_bonus"
+msgstr "Level bonus:"
+
+msgid "game_fi_lmarbles_main_move_bonus"
+msgstr "Move bonus:"
+
+msgid "game_fi_lmarbles_main_moves"
+msgstr "Moves: %d"
+
+msgid "game_fi_lmarbles_main_score"
+msgstr "Score: %d"
+
+msgid "game_fi_lmarbles_main_total_score"
+msgstr "Total score:"
+
+msgid "game_fi_lmarbles_settings_difficulty"
+msgstr "遊戲難度"
+
+msgid "game_fi_lmarbles_settings_sound"
+msgstr "音效"
+
+msgid "game_fi_mahjong_end_game_description%s%.2d%.2d%.2d%.2d"
+msgstr "難度: %s\n遊戲時間: %.2d:%.2d\n\n這個難度的最佳成績: %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description2%s%.2d%.2d%.2d%.2d"
+msgstr "難度: %s\n遊戲時間: %.2d:%.2d\n\n新的個人最佳成績!\n上次最好成績: %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description3%s%.2d%.2d"
+msgstr "難度: %s\n遊戲時間: %.2d:%.2d\n\n新的個人最佳成績!"
+
+msgid "game_fi_mahjong_game_board_1"
+msgstr "標準"
+
+msgid "game_fi_mahjong_game_board_2"
+msgstr "蓮花"
+
+msgid "game_fi_mahjong_game_board_3"
+msgstr "交叉"
+
+msgid "game_fi_mahjong_game_board_4"
+msgstr "金字塔"
+
+msgid "game_fi_mahjong_game_board_5"
+msgstr "井字"
+
+msgid "game_fi_mahjong_game_board_6"
+msgstr "雲霧"
+
+msgid "game_fi_mahjong_game_board_7"
+msgstr "紅龍"
+
+msgid "game_fi_mahjong_game_board_8"
+msgstr "四座橋"
+
+msgid "game_fi_mahjong_settings_board"
+msgstr "難度"
+
+msgid "game_fi_mahjong_settings_sound"
+msgstr "音效"
+
+msgid "game_ia_startup_not_started"
+msgstr "遊戲尚未開始"
+
+msgid "game_ia_startup_paused"
+msgstr "遊戲暫停"
+
+msgid "game_ib_changes_effect_next_game"
+msgstr "修改將在下次遊戲時生效"
+
+msgid "game_ib_chess_check"
+msgstr "將軍!"
+
+msgid "game_ib_chess_check_mate"
+msgstr "將死!"
+
+msgid "game_ib_not_available"
+msgstr "不可用"
+
+msgid "game_me_blocks_main_menu_game"
+msgstr "遊戲"
+
+msgid "game_me_blocks_menu_game_play"
+msgstr "開始"
+
+msgid "game_me_blocks_menu_game_restart"
+msgstr "重新開始"
+
+msgid "game_me_chess_main_menu_game"
+msgstr "遊戲"
+
+msgid "game_me_chess_main_menu_recent"
+msgstr "最近"
+
+msgid "game_me_chess_main_menu_settings"
+msgstr "設定"
+
+msgid "game_me_chess_menu_game_open"
+msgstr "開啟"
+
+msgid "game_me_chess_menu_game_play"
+msgstr "開始"
+
+msgid "game_me_chess_menu_game_restart"
+msgstr "重新開始"
+
+msgid "game_me_chess_menu_game_save"
+msgstr "儲存"
+
+msgid "game_me_chess_menu_game_save_as"
+msgstr "另存新檔"
+
+msgid "game_me_chess_menu_settings_human"
+msgstr "玩家 1"
+
+msgid "game_me_chess_menu_settings_human_black"
+msgstr "黑"
+
+msgid "game_me_chess_menu_settings_human_white"
+msgstr "白"
+
+msgid "game_me_chess_menu_settings_legal_moves"
+msgstr "顯示遊戲規則"
+
+msgid "game_me_chess_menu_settings_opponent"
+msgstr "難度"
+
+msgid "game_me_chess_menu_settings_opponent_1"
+msgstr "初級"
+
+msgid "game_me_chess_menu_settings_opponent_2"
+msgstr "中級"
+
+msgid "game_me_chess_menu_settings_opponent_3"
+msgstr "進階"
+
+msgid "game_me_chess_menu_settings_opponent_4"
+msgstr "專家"
+
+msgid "game_me_chess_menu_settings_opponent_human"
+msgstr "玩家 2"
+
+msgid "game_me_chess_menu_settings_sound"
+msgstr "聲音"
+
+msgid "game_me_lmarbles_main_menu_game"
+msgstr "遊戲"
+
+msgid "game_me_lmarbles_main_menu_settings"
+msgstr "設定"
+
+msgid "game_me_lmarbles_menu_game_play"
+msgstr "開始"
+
+msgid "game_me_lmarbles_menu_game_restart"
+msgstr "重新開始"
+
+msgid "game_me_lmarbles_menu_settings_brainstorm"
+msgstr "專家"
+
+msgid "game_me_lmarbles_menu_settings_easy"
+msgstr "簡單"
+
+msgid "game_me_lmarbles_menu_settings_hard"
+msgstr "進階"
+
+msgid "game_me_lmarbles_menu_settings_normal"
+msgstr "普通"
+
+msgid "game_me_lmarbles_menu_settings_reset"
+msgstr "重設"
+
+msgid "game_me_lmarbles_menu_settings_reset_progress"
+msgstr "重設遊戲"
+
+msgid "game_me_lmarbles_menu_settings_sound"
+msgstr "聲音"
+
+msgid "game_me_mahjong_main_menu_board"
+msgstr "難度"
+
+msgid "game_me_mahjong_main_menu_game"
+msgstr "遊戲"
+
+msgid "game_me_mahjong_main_menu_settings"
+msgstr "設定"
+
+msgid "game_me_mahjong_main_menu_tools"
+msgstr "工具"
+
+msgid "game_me_mahjong_menu_board_1"
+msgstr "標準"
+
+msgid "game_me_mahjong_menu_board_2"
+msgstr "蓮花"
+
+msgid "game_me_mahjong_menu_board_3"
+msgstr "交叉"
+
+msgid "game_me_mahjong_menu_board_4"
+msgstr "金字塔"
+
+msgid "game_me_mahjong_menu_board_5"
+msgstr "井字"
+
+msgid "game_me_mahjong_menu_board_6"
+msgstr "雲霧"
+
+msgid "game_me_mahjong_menu_board_7"
+msgstr "紅龍"
+
+msgid "game_me_mahjong_menu_board_8"
+msgstr "四座橋"
+
+msgid "game_me_mahjong_menu_game_play"
+msgstr "開始"
+
+msgid "game_me_mahjong_menu_game_restart"
+msgstr "重新開始"
+
+msgid "game_me_mahjong_menu_settings_sound"
+msgstr "聲音"
+
+msgid "game_me_mahjong_menu_tools_high_scores"
+msgstr "最佳成績"
+
+msgid "game_me_main_menu_close"
+msgstr "關閉"
+
+msgid "game_nc_change_level"
+msgstr "Enter level %d of chapter %d?"
+
+msgid "game_nc_reset_game_progress"
+msgstr "Resetting the game will close all opened levels. Continue anyway?"
+
+msgid "game_nc_restart_game"
+msgstr "Start new game?"
+
+msgid "game_ni_unsupported_file%s"
+msgstr "無法開啟檔案%s\n格式不支援."
+
+msgid "game_ti_blocks_end_game_title"
+msgstr "Game over"
+
+msgid "game_ti_chess_end_game_title"
+msgstr "遊戲結束"
+
+msgid "game_ti_chess_promote_pawn_title"
+msgstr "兵卒提升"
+
+msgid "game_ti_lmarbles_congratulations_title"
+msgstr "恭喜!"
+
+msgid "game_ti_load_game_title"
+msgstr "載入遊戲"
+
+msgid "game_ti_mahjong_end_game_title"
+msgstr "遊戲結束"
+
+msgid "game_ti_mahjong_high_scores_date"
+msgstr "日期"
+
+msgid "game_ti_mahjong_high_scores_level"
+msgstr "難度"
+
+msgid "game_ti_mahjong_high_scores_time"
+msgstr "最佳成績"
+
+msgid "game_ti_mahjong_high_scores_title"
+msgstr "最佳成績"
+
+msgid "game_ti_save_game_title"
+msgstr "儲存遊戲"
+
+msgid "game_va_chess_settings_human_black"
+msgstr "黑"
+
+msgid "game_va_chess_settings_human_white"
+msgstr "白"
+
+msgid "game_va_chess_settings_opponent_easy"
+msgstr "簡單"
+
+msgid "game_va_chess_settings_opponent_expert"
+msgstr "專家"
+
+msgid "game_va_chess_settings_opponent_hard"
+msgstr "進階"
+
+msgid "game_va_chess_settings_opponent_human"
+msgstr "玩家 2"
+
+msgid "game_va_chess_settings_opponent_medium"
+msgstr "中級"
+
+msgid "game_va_lmarbles_settings_difficulty_1"
+msgstr "簡單"
+
+msgid "game_va_lmarbles_settings_difficulty_2"
+msgstr "普通"
+
+msgid "game_va_lmarbles_settings_difficulty_3"
+msgstr "進階"
+
+msgid "game_va_lmarbles_settings_difficulty_4"
+msgstr "專家"
+
+msgid "game_va_mahjong_settings_board_1"
+msgstr "標準"
+
+msgid "game_va_mahjong_settings_board_2"
+msgstr "蓮花"
+
+msgid "game_va_mahjong_settings_board_3"
+msgstr "交叉"
+
+msgid "game_va_mahjong_settings_board_4"
+msgstr "金字塔"
+
+msgid "game_va_mahjong_settings_board_5"
+msgstr "井字"
+
+msgid "game_va_mahjong_settings_board_6"
+msgstr "雲霧"
+
+msgid "game_va_mahjong_settings_board_7"
+msgstr "紅龍"
+
+msgid "game_va_mahjong_settings_board_8"
+msgstr "四座橋"
+
+msgid "sfil_va_save_object_name_stub_chess"
+msgstr "國際象棋"
+
+msgid "sfil_va_select_object_no_objects_games"
+msgstr "(沒有遊戲)"
