@@ -1,0 +1,481 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.02.02 11:07+0200\n"
+"PO-Revision-Date: 2011-11-06 15:06+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "game_ap_blocks_name"
+msgstr "بلوک‌ها"
+
+msgid "game_ap_chess_name"
+msgstr "شطرنج"
+
+msgid "game_ap_mahjong_name"
+msgstr "ماهجونگ"
+
+msgid "game_ap_marbles_name"
+msgstr "ماربلز"
+
+msgid "game_ap_startup_name"
+msgstr "راه اندازی"
+
+msgid "game_bd_blocks_main_exit_to_menu"
+msgstr "خروج به منوی اصلی"
+
+msgid "game_bd_blocks_main_restart"
+msgstr "راه اندازی مجدد"
+
+msgid "game_bd_change_level_cancel"
+msgstr "خیر"
+
+msgid "game_bd_change_level_ok"
+msgstr "تائید"
+
+msgid "game_bd_chess_end_game_ok"
+msgstr "قبول"
+
+msgid "game_bd_chess_promote_pawn_ok"
+msgstr "قبول"
+
+msgid "game_bd_lmarbles_congratulations_ok"
+msgstr "قبول"
+
+msgid "game_bd_mahjong_end_game_ok"
+msgstr "قبول"
+
+msgid "game_bd_mahjong_high_scores_close"
+msgstr "بستن"
+
+msgid "game_bd_reset_game_progress_cancel"
+msgstr "لغو"
+
+msgid "game_bd_reset_game_progress_ok"
+msgstr "تائید"
+
+msgid "game_bd_restart_game_cancel"
+msgstr "خیر"
+
+msgid "game_bd_restart_game_ok"
+msgstr "تائید"
+
+msgid "game_bu_mahjong_settings_high_scores"
+msgstr "بهترین رکورد‌های زمانی"
+
+msgid "game_bv_startup_continue"
+msgstr "ادامه"
+
+msgid "game_bv_startup_play"
+msgstr "بازی"
+
+msgid "game_bv_startup_restart"
+msgstr "راه اندازی مجدد"
+
+msgid "game_fi_blocks_end_game_description"
+msgstr "گزینه‌ی رستارت را برای تلاش مجدد فشار دهید"
+
+msgid "game_fi_blocks_main_level"
+msgstr "مرحله"
+
+msgid "game_fi_blocks_main_lines"
+msgstr "خطوط"
+
+msgid "game_fi_blocks_main_next"
+msgstr "بعدی"
+
+msgid "game_fi_blocks_main_score"
+msgstr "امتیاز"
+
+msgid "game_fi_blocks_settings_difficulty"
+msgstr "سرعت بلاک"
+
+msgid "game_fi_blocks_settings_noise_height"
+msgstr "ارتفاع شروع"
+
+msgid "game_fi_blocks_settings_noise_level"
+msgstr "تراکم شروع"
+
+msgid "game_fi_chess_computer_title"
+msgstr "سیستم"
+
+msgid "game_fi_chess_end_game_description%s"
+msgstr "مات  – %s بردها"
+
+msgid "game_fi_chess_end_game_tie_description"
+msgstr "تساوی"
+
+msgid "game_fi_chess_player_1_title"
+msgstr "بازیکن اول"
+
+msgid "game_fi_chess_player_2_title"
+msgstr "بازیکن دوم"
+
+msgid "game_fi_chess_promote_pawn_description"
+msgstr "ارتقاء به :"
+
+msgid "game_fi_chess_settings_human"
+msgstr "بازیکن اول"
+
+msgid "game_fi_chess_settings_legal_moves"
+msgstr "نمایش حرکات قانونی"
+
+msgid "game_fi_chess_settings_opponent"
+msgstr "حریف"
+
+msgid "game_fi_chess_settings_sound"
+msgstr "افکت‌های صوتی"
+
+msgid "game_fi_lmarbles_congratulations_description"
+msgstr "شما با موفقیت بازی را به پایان رساندید!"
+
+msgid "game_fi_lmarbles_main_chapter_level"
+msgstr "فصل %d, سطح %d"
+
+msgid "game_fi_lmarbles_main_high_score"
+msgstr "بیشترین امتیاز: %d"
+
+msgid "game_fi_lmarbles_main_level_bonus"
+msgstr "امتیاز مرحله:"
+
+msgid "game_fi_lmarbles_main_move_bonus"
+msgstr "امتیاز تعداد حرکات:"
+
+msgid "game_fi_lmarbles_main_moves"
+msgstr "حرکت ها: %d"
+
+msgid "game_fi_lmarbles_main_score"
+msgstr "امتیاز: %d"
+
+msgid "game_fi_lmarbles_main_total_score"
+msgstr "امتیاز کل:"
+
+msgid "game_fi_lmarbles_settings_difficulty"
+msgstr "سختی مرحله"
+
+msgid "game_fi_lmarbles_settings_sound"
+msgstr "افکت‌های صوتی"
+
+msgid "game_fi_mahjong_end_game_description%s%.2d%.2d%.2d%.2d"
+msgstr "تخته: %s\nتخته خالی شده در %.2d:%.2d\n\nبهترین زمان برای تخته: %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description2%s%.2d%.2d%.2d%.2d"
+msgstr "تخته: %s\nتخته خالی شده در %.2d:%.2d\n\nبهترین امتیاز ثبت شده!\nبهترین امتیاز پیشین: %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description3%s%.2d%.2d"
+msgstr "تخته: %s\nتخته خالی شده در %.2d:%.2d\n\nبهترین امتیاز ثبت شده!"
+
+msgid "game_fi_mahjong_game_board_1"
+msgstr "استاندارد"
+
+msgid "game_fi_mahjong_game_board_2"
+msgstr "گل لوتوس"
+
+msgid "game_fi_mahjong_game_board_3"
+msgstr "مداخله گر عبور"
+
+msgid "game_fi_mahjong_game_board_4"
+msgstr "دیوارهای هرم"
+
+msgid "game_fi_mahjong_game_board_5"
+msgstr "تیک تاک توء"
+
+msgid "game_fi_mahjong_game_board_6"
+msgstr "ابر"
+
+msgid "game_fi_mahjong_game_board_7"
+msgstr "اژدها‌ی قرمز"
+
+msgid "game_fi_mahjong_game_board_8"
+msgstr "چهار پل"
+
+msgid "game_fi_mahjong_settings_board"
+msgstr "تخته"
+
+msgid "game_fi_mahjong_settings_sound"
+msgstr "افکت‌های صوتی"
+
+msgid "game_ia_startup_not_started"
+msgstr "بازی هنوز شروع نشده است"
+
+msgid "game_ia_startup_paused"
+msgstr "بازی متوقف شد"
+
+msgid "game_ib_changes_effect_next_game"
+msgstr "تغییرات انجام شده ، در بازی بعدی تاثیر گذار خواهند بود"
+
+msgid "game_ib_chess_check"
+msgstr "کیش!"
+
+msgid "game_ib_chess_check_mate"
+msgstr "کیش و مات!"
+
+msgid "game_ib_not_available"
+msgstr "در دسترس نمی باشد"
+
+msgid "game_me_blocks_main_menu_game"
+msgstr "بازی"
+
+msgid "game_me_blocks_menu_game_play"
+msgstr "شروع بازی"
+
+msgid "game_me_blocks_menu_game_restart"
+msgstr "راه اندازی مجدد"
+
+msgid "game_me_chess_main_menu_game"
+msgstr "بازی"
+
+msgid "game_me_chess_main_menu_recent"
+msgstr "تازه"
+
+msgid "game_me_chess_main_menu_settings"
+msgstr "تنظیمات"
+
+msgid "game_me_chess_menu_game_open"
+msgstr "بازی کردن"
+
+msgid "game_me_chess_menu_game_play"
+msgstr "شروع بازی"
+
+msgid "game_me_chess_menu_game_restart"
+msgstr "راه اندازی مجدد"
+
+msgid "game_me_chess_menu_game_save"
+msgstr "ذخیره سازی"
+
+msgid "game_me_chess_menu_game_save_as"
+msgstr "ذخیره به عنوان"
+
+msgid "game_me_chess_menu_settings_human"
+msgstr "بازیکن اول"
+
+msgid "game_me_chess_menu_settings_human_black"
+msgstr "سیاه"
+
+msgid "game_me_chess_menu_settings_human_white"
+msgstr "سفید"
+
+msgid "game_me_chess_menu_settings_legal_moves"
+msgstr "نمایش حرکات قانونی"
+
+msgid "game_me_chess_menu_settings_opponent"
+msgstr "حریف"
+
+msgid "game_me_chess_menu_settings_opponent_1"
+msgstr "آسان"
+
+msgid "game_me_chess_menu_settings_opponent_2"
+msgstr "متوسط"
+
+msgid "game_me_chess_menu_settings_opponent_3"
+msgstr "پیشرفته"
+
+msgid "game_me_chess_menu_settings_opponent_4"
+msgstr "متخصص"
+
+msgid "game_me_chess_menu_settings_opponent_human"
+msgstr "بازیکن دوم"
+
+msgid "game_me_chess_menu_settings_sound"
+msgstr "صدا"
+
+msgid "game_me_lmarbles_main_menu_game"
+msgstr "بازی"
+
+msgid "game_me_lmarbles_main_menu_settings"
+msgstr "تنظیمات"
+
+msgid "game_me_lmarbles_menu_game_play"
+msgstr "شروع بازی"
+
+msgid "game_me_lmarbles_menu_game_restart"
+msgstr "راه اندازی مجدد"
+
+msgid "game_me_lmarbles_menu_settings_brainstorm"
+msgstr "آشفتگی فکری موقتی"
+
+msgid "game_me_lmarbles_menu_settings_easy"
+msgstr "آسان"
+
+msgid "game_me_lmarbles_menu_settings_hard"
+msgstr "پیشرفته"
+
+msgid "game_me_lmarbles_menu_settings_normal"
+msgstr "معمولی"
+
+msgid "game_me_lmarbles_menu_settings_reset"
+msgstr "راه اندازی مجدد"
+
+msgid "game_me_lmarbles_menu_settings_reset_progress"
+msgstr "بازیابی عملکرد بازی"
+
+msgid "game_me_lmarbles_menu_settings_sound"
+msgstr "صدا"
+
+msgid "game_me_mahjong_main_menu_board"
+msgstr "تخته"
+
+msgid "game_me_mahjong_main_menu_game"
+msgstr "بازی"
+
+msgid "game_me_mahjong_main_menu_settings"
+msgstr "تنظیمات"
+
+msgid "game_me_mahjong_main_menu_tools"
+msgstr "ابزار"
+
+msgid "game_me_mahjong_menu_board_1"
+msgstr "استاندارد"
+
+msgid "game_me_mahjong_menu_board_2"
+msgstr "گل لوتوس"
+
+msgid "game_me_mahjong_menu_board_3"
+msgstr "مداخله گر عبور"
+
+msgid "game_me_mahjong_menu_board_4"
+msgstr "دیوارهای هرم"
+
+msgid "game_me_mahjong_menu_board_5"
+msgstr "تیک تاک توء"
+
+msgid "game_me_mahjong_menu_board_6"
+msgstr "ابر"
+
+msgid "game_me_mahjong_menu_board_7"
+msgstr "اژدهای قرمز"
+
+msgid "game_me_mahjong_menu_board_8"
+msgstr "چهار پل"
+
+msgid "game_me_mahjong_menu_game_play"
+msgstr "شروع بازی"
+
+msgid "game_me_mahjong_menu_game_restart"
+msgstr "راه اندازی مجدد"
+
+msgid "game_me_mahjong_menu_settings_sound"
+msgstr "صدا"
+
+msgid "game_me_mahjong_menu_tools_high_scores"
+msgstr "بهترین رکوردهای زمانی"
+
+msgid "game_me_main_menu_close"
+msgstr "بستن"
+
+msgid "game_nc_change_level"
+msgstr "وارد کنید سطح %d فصل از %d?"
+
+msgid "game_nc_reset_game_progress"
+msgstr "راه اندازی مجدد بازی تمام مراحل بازی را خواهد بست.ادامه می‌دهید؟"
+
+msgid "game_nc_restart_game"
+msgstr "بازی جدید شروع شود؟"
+
+msgid "game_ni_unsupported_file%s"
+msgstr "قادر به باز کردن نمی‌باشد %s.\nفرمت فایل پشتیبانی نمی‌شود."
+
+msgid "game_ti_blocks_end_game_title"
+msgstr "شما باختید!"
+
+msgid "game_ti_chess_end_game_title"
+msgstr "شما باختید!"
+
+msgid "game_ti_chess_promote_pawn_title"
+msgstr "سرباز ارتقا پیدا کرد"
+
+msgid "game_ti_lmarbles_congratulations_title"
+msgstr "خوش آمدید!"
+
+msgid "game_ti_load_game_title"
+msgstr "بار‌گذاری بازی"
+
+msgid "game_ti_mahjong_end_game_title"
+msgstr "شما باختید!"
+
+msgid "game_ti_mahjong_high_scores_date"
+msgstr "تاریخ"
+
+msgid "game_ti_mahjong_high_scores_level"
+msgstr "تخته"
+
+msgid "game_ti_mahjong_high_scores_time"
+msgstr "بهترین رکوردهای زمانی"
+
+msgid "game_ti_mahjong_high_scores_title"
+msgstr "بهترین رکوردهای زمانی"
+
+msgid "game_ti_save_game_title"
+msgstr "ذخیره سازی بازی"
+
+msgid "game_va_chess_settings_human_black"
+msgstr "سیاه"
+
+msgid "game_va_chess_settings_human_white"
+msgstr "سفید"
+
+msgid "game_va_chess_settings_opponent_easy"
+msgstr "آسان"
+
+msgid "game_va_chess_settings_opponent_expert"
+msgstr "متخصص"
+
+msgid "game_va_chess_settings_opponent_hard"
+msgstr "پیشرفته"
+
+msgid "game_va_chess_settings_opponent_human"
+msgstr "بازیکن دوم"
+
+msgid "game_va_chess_settings_opponent_medium"
+msgstr "متوسط"
+
+msgid "game_va_lmarbles_settings_difficulty_1"
+msgstr "آسان"
+
+msgid "game_va_lmarbles_settings_difficulty_2"
+msgstr "معمولی"
+
+msgid "game_va_lmarbles_settings_difficulty_3"
+msgstr "پیشرفته"
+
+msgid "game_va_lmarbles_settings_difficulty_4"
+msgstr "آشفتگی فکری موقتی"
+
+msgid "game_va_mahjong_settings_board_1"
+msgstr "استاندارد"
+
+msgid "game_va_mahjong_settings_board_2"
+msgstr "گل لوتوس"
+
+msgid "game_va_mahjong_settings_board_3"
+msgstr "مداخله گر عبور"
+
+msgid "game_va_mahjong_settings_board_4"
+msgstr "دیوارهای هرم"
+
+msgid "game_va_mahjong_settings_board_5"
+msgstr "تیک تاک توء"
+
+msgid "game_va_mahjong_settings_board_6"
+msgstr "ابر"
+
+msgid "game_va_mahjong_settings_board_7"
+msgstr "اژدهای قرمز"
+
+msgid "game_va_mahjong_settings_board_8"
+msgstr "چهار پل"
+
+msgid "sfil_va_save_object_name_stub_chess"
+msgstr "شطرنج"
+
+msgid "sfil_va_select_object_no_objects_games"
+msgstr "(بازی‌ای وجود ندارد)"
