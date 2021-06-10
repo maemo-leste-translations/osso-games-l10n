@@ -1,0 +1,480 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.02.02 11:07+0200\n"
+"PO-Revision-Date: 2010-11-30 11:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "game_ap_blocks_name"
+msgstr "블록"
+
+msgid "game_ap_chess_name"
+msgstr "체스"
+
+msgid "game_ap_mahjong_name"
+msgstr "마작"
+
+msgid "game_ap_marbles_name"
+msgstr "구슬치기"
+
+msgid "game_ap_startup_name"
+msgstr "시작"
+
+msgid "game_bd_blocks_main_exit_to_menu"
+msgstr "메뉴로 돌아가기"
+
+msgid "game_bd_blocks_main_restart"
+msgstr "다시 시작"
+
+msgid "game_bd_change_level_cancel"
+msgstr "아니요"
+
+msgid "game_bd_change_level_ok"
+msgstr "예"
+
+msgid "game_bd_chess_end_game_ok"
+msgstr "확인"
+
+msgid "game_bd_chess_promote_pawn_ok"
+msgstr "확인"
+
+msgid "game_bd_lmarbles_congratulations_ok"
+msgstr "확인"
+
+msgid "game_bd_mahjong_end_game_ok"
+msgstr "확인"
+
+msgid "game_bd_mahjong_high_scores_close"
+msgstr "닫기"
+
+msgid "game_bd_reset_game_progress_cancel"
+msgstr "아니요"
+
+msgid "game_bd_reset_game_progress_ok"
+msgstr "예"
+
+msgid "game_bd_restart_game_cancel"
+msgstr "아니요"
+
+msgid "game_bd_restart_game_ok"
+msgstr "예"
+
+msgid "game_bu_mahjong_settings_high_scores"
+msgstr "최고 기록"
+
+msgid "game_bv_startup_continue"
+msgstr "계속"
+
+msgid "game_bv_startup_play"
+msgstr "Play"
+
+msgid "game_bv_startup_restart"
+msgstr "다시 시작"
+
+msgid "game_fi_blocks_end_game_description"
+msgstr "'다시 시작'을 탭하여 다시 시작해주세요"
+
+msgid "game_fi_blocks_main_level"
+msgstr "단계"
+
+msgid "game_fi_blocks_main_lines"
+msgstr "줄 수"
+
+msgid "game_fi_blocks_main_next"
+msgstr "다음"
+
+msgid "game_fi_blocks_main_score"
+msgstr "점수"
+
+msgid "game_fi_blocks_settings_difficulty"
+msgstr "블록 속도"
+
+msgid "game_fi_blocks_settings_noise_height"
+msgstr "시작 높이"
+
+msgid "game_fi_blocks_settings_noise_level"
+msgstr "시작 밀도"
+
+msgid "game_fi_chess_computer_title"
+msgstr "컴퓨터"
+
+msgid "game_fi_chess_end_game_description%s"
+msgstr "체크메이트 – %s 님이 승리하였습니다!"
+
+msgid "game_fi_chess_end_game_tie_description"
+msgstr "스테일메이트– 무승부 입니다"
+
+msgid "game_fi_chess_player_1_title"
+msgstr "플레이어 1"
+
+msgid "game_fi_chess_player_2_title"
+msgstr "플레이어 2"
+
+msgid "game_fi_chess_promote_pawn_description"
+msgstr "Promote to:"
+
+msgid "game_fi_chess_settings_human"
+msgstr "플레이어 1"
+
+msgid "game_fi_chess_settings_legal_moves"
+msgstr "허용된 수 보기"
+
+msgid "game_fi_chess_settings_opponent"
+msgstr "상대"
+
+msgid "game_fi_chess_settings_sound"
+msgstr "사운드 효과"
+
+msgid "game_fi_lmarbles_congratulations_description"
+msgstr "당신은 성공적으로 게임을 완료 했습니다!"
+
+msgid "game_fi_lmarbles_main_chapter_level"
+msgstr "챕터 %d, 단계 %d"
+
+msgid "game_fi_lmarbles_main_high_score"
+msgstr "최고 기록: %d"
+
+msgid "game_fi_lmarbles_main_level_bonus"
+msgstr "단계 보너스:"
+
+msgid "game_fi_lmarbles_main_move_bonus"
+msgstr "움직인 횟수 보너스:"
+
+msgid "game_fi_lmarbles_main_moves"
+msgstr "움직인 횟수: %d"
+
+msgid "game_fi_lmarbles_main_score"
+msgstr "점수: %d"
+
+msgid "game_fi_lmarbles_main_total_score"
+msgstr "총 점수:"
+
+msgid "game_fi_lmarbles_settings_difficulty"
+msgstr "난이도"
+
+msgid "game_fi_lmarbles_settings_sound"
+msgstr "사운드 효과"
+
+msgid "game_fi_mahjong_end_game_description%s%.2d%.2d%.2d%.2d"
+msgstr "보드: %s\n%.2d:%.2d 만에 보드를 클리어 했습니다.\n\n보드 최고기록: %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description2%s%.2d%.2d%.2d%.2d"
+msgstr "보드 %s\n%.2d:%.2d 만에 보드를 클리어 했습니다.\n\n개인 신기록 입니다!\n이전 최고기록: %.2d:%.2d"
+
+msgid "game_fi_mahjong_end_game_description3%s%.2d%.2d"
+msgstr "보드: %s\n%.2d:%.2d 만에 보드를 클리어 했습니다.\n\n개인 신기록 입니다!"
+
+msgid "game_fi_mahjong_game_board_1"
+msgstr "일반"
+
+msgid "game_fi_mahjong_game_board_2"
+msgstr "연화"
+
+msgid "game_fi_mahjong_game_board_3"
+msgstr "어리둥절한 십자가"
+
+msgid "game_fi_mahjong_game_board_4"
+msgstr "피라미드의 벽들"
+
+msgid "game_fi_mahjong_game_board_5"
+msgstr "틱-택-토"
+
+msgid "game_fi_mahjong_game_board_6"
+msgstr "구름"
+
+msgid "game_fi_mahjong_game_board_7"
+msgstr "붉은 용"
+
+msgid "game_fi_mahjong_game_board_8"
+msgstr "네 개의 다리들"
+
+msgid "game_fi_mahjong_settings_board"
+msgstr "보드"
+
+msgid "game_fi_mahjong_settings_sound"
+msgstr "사운드 효과"
+
+msgid "game_ia_startup_not_started"
+msgstr "게임이 아직 시작되지 않았습니다"
+
+msgid "game_ia_startup_paused"
+msgstr "게임이 일시 중지 중입니다"
+
+msgid "game_ib_changes_effect_next_game"
+msgstr "변경 사항은 다음 게임부터 적용 됩니다"
+
+msgid "game_ib_chess_check"
+msgstr "체크!"
+
+msgid "game_ib_chess_check_mate"
+msgstr "체크메이트!"
+
+msgid "game_ib_not_available"
+msgstr "사용 할 수 없음"
+
+msgid "game_me_blocks_main_menu_game"
+msgstr "게임"
+
+msgid "game_me_blocks_menu_game_play"
+msgstr "플레이"
+
+msgid "game_me_blocks_menu_game_restart"
+msgstr "다시 시작"
+
+msgid "game_me_chess_main_menu_game"
+msgstr "게임"
+
+msgid "game_me_chess_main_menu_recent"
+msgstr "최근"
+
+msgid "game_me_chess_main_menu_settings"
+msgstr "설정"
+
+msgid "game_me_chess_menu_game_open"
+msgstr "열기"
+
+msgid "game_me_chess_menu_game_play"
+msgstr "플레이"
+
+msgid "game_me_chess_menu_game_restart"
+msgstr "다시 시작"
+
+msgid "game_me_chess_menu_game_save"
+msgstr "저장"
+
+msgid "game_me_chess_menu_game_save_as"
+msgstr "다른 이름으로 저장"
+
+msgid "game_me_chess_menu_settings_human"
+msgstr "플레이어 1"
+
+msgid "game_me_chess_menu_settings_human_black"
+msgstr "흑"
+
+msgid "game_me_chess_menu_settings_human_white"
+msgstr "백"
+
+msgid "game_me_chess_menu_settings_legal_moves"
+msgstr "허용된 수 보기"
+
+msgid "game_me_chess_menu_settings_opponent"
+msgstr "상대"
+
+msgid "game_me_chess_menu_settings_opponent_1"
+msgstr "쉬움"
+
+msgid "game_me_chess_menu_settings_opponent_2"
+msgstr "중간"
+
+msgid "game_me_chess_menu_settings_opponent_3"
+msgstr "고급"
+
+msgid "game_me_chess_menu_settings_opponent_4"
+msgstr "전문가"
+
+msgid "game_me_chess_menu_settings_opponent_human"
+msgstr "플레이어 2"
+
+msgid "game_me_chess_menu_settings_sound"
+msgstr "사운드"
+
+msgid "game_me_lmarbles_main_menu_game"
+msgstr "게임"
+
+msgid "game_me_lmarbles_main_menu_settings"
+msgstr "설정"
+
+msgid "game_me_lmarbles_menu_game_play"
+msgstr "플레이"
+
+msgid "game_me_lmarbles_menu_game_restart"
+msgstr "다시 시작"
+
+msgid "game_me_lmarbles_menu_settings_brainstorm"
+msgstr "정신 착란"
+
+msgid "game_me_lmarbles_menu_settings_easy"
+msgstr "쉬움"
+
+msgid "game_me_lmarbles_menu_settings_hard"
+msgstr "고급"
+
+msgid "game_me_lmarbles_menu_settings_normal"
+msgstr "일반"
+
+msgid "game_me_lmarbles_menu_settings_reset"
+msgstr "처음부터"
+
+msgid "game_me_lmarbles_menu_settings_reset_progress"
+msgstr "게임 진행 처음부터"
+
+msgid "game_me_lmarbles_menu_settings_sound"
+msgstr "사운드"
+
+msgid "game_me_mahjong_main_menu_board"
+msgstr "Board"
+
+msgid "game_me_mahjong_main_menu_game"
+msgstr "게임"
+
+msgid "game_me_mahjong_main_menu_settings"
+msgstr "설정"
+
+msgid "game_me_mahjong_main_menu_tools"
+msgstr "도구"
+
+msgid "game_me_mahjong_menu_board_1"
+msgstr "일반"
+
+msgid "game_me_mahjong_menu_board_2"
+msgstr "연화"
+
+msgid "game_me_mahjong_menu_board_3"
+msgstr "어리둥절한 십자가"
+
+msgid "game_me_mahjong_menu_board_4"
+msgstr "피라미드의 벽들"
+
+msgid "game_me_mahjong_menu_board_5"
+msgstr "틱-택-토"
+
+msgid "game_me_mahjong_menu_board_6"
+msgstr "구름"
+
+msgid "game_me_mahjong_menu_board_7"
+msgstr "붉은 용"
+
+msgid "game_me_mahjong_menu_board_8"
+msgstr "네 개의 다리들"
+
+msgid "game_me_mahjong_menu_game_play"
+msgstr "플레이"
+
+msgid "game_me_mahjong_menu_game_restart"
+msgstr "다시 시작"
+
+msgid "game_me_mahjong_menu_settings_sound"
+msgstr "사운드"
+
+msgid "game_me_mahjong_menu_tools_high_scores"
+msgstr "최고 기록"
+
+msgid "game_me_main_menu_close"
+msgstr "닫기"
+
+msgid "game_nc_change_level"
+msgstr "%d 단계(챕터 %d)에 진입하시겠습니까?"
+
+msgid "game_nc_reset_game_progress"
+msgstr "게임을 초기화하면 열려있던 모든 단계가 닫힙니다. 계속하시겠습니까?"
+
+msgid "game_nc_restart_game"
+msgstr "게임을 새로 시작하시겠습니까?"
+
+msgid "game_ni_unsupported_file%s"
+msgstr "파일 형식이 지원되지 않아\n%s 파일을 열 수 없습니다."
+
+msgid "game_ti_blocks_end_game_title"
+msgstr "게임 오버"
+
+msgid "game_ti_chess_end_game_title"
+msgstr "게임 오버"
+
+msgid "game_ti_chess_promote_pawn_title"
+msgstr "Promote pawn"
+
+msgid "game_ti_lmarbles_congratulations_title"
+msgstr "축하합니다!"
+
+msgid "game_ti_load_game_title"
+msgstr "게임 불러오기"
+
+msgid "game_ti_mahjong_end_game_title"
+msgstr "게임 오버"
+
+msgid "game_ti_mahjong_high_scores_date"
+msgstr "날짜"
+
+msgid "game_ti_mahjong_high_scores_level"
+msgstr "Board"
+
+msgid "game_ti_mahjong_high_scores_time"
+msgstr "최고 기록"
+
+msgid "game_ti_mahjong_high_scores_title"
+msgstr "최고 기록들"
+
+msgid "game_ti_save_game_title"
+msgstr "게임 저장"
+
+msgid "game_va_chess_settings_human_black"
+msgstr "흑"
+
+msgid "game_va_chess_settings_human_white"
+msgstr "백"
+
+msgid "game_va_chess_settings_opponent_easy"
+msgstr "쉬움"
+
+msgid "game_va_chess_settings_opponent_expert"
+msgstr "숙련자"
+
+msgid "game_va_chess_settings_opponent_hard"
+msgstr "고급"
+
+msgid "game_va_chess_settings_opponent_human"
+msgstr "플레이어 2"
+
+msgid "game_va_chess_settings_opponent_medium"
+msgstr "중간"
+
+msgid "game_va_lmarbles_settings_difficulty_1"
+msgstr "쉬움"
+
+msgid "game_va_lmarbles_settings_difficulty_2"
+msgstr "일반"
+
+msgid "game_va_lmarbles_settings_difficulty_3"
+msgstr "고급"
+
+msgid "game_va_lmarbles_settings_difficulty_4"
+msgstr "정신 착란"
+
+msgid "game_va_mahjong_settings_board_1"
+msgstr "일반"
+
+msgid "game_va_mahjong_settings_board_2"
+msgstr "연화"
+
+msgid "game_va_mahjong_settings_board_3"
+msgstr "어리둥절한 십자가"
+
+msgid "game_va_mahjong_settings_board_4"
+msgstr "피라미드의 벽들"
+
+msgid "game_va_mahjong_settings_board_5"
+msgstr "틱-택-토"
+
+msgid "game_va_mahjong_settings_board_6"
+msgstr "구름"
+
+msgid "game_va_mahjong_settings_board_7"
+msgstr "붉은 용"
+
+msgid "game_va_mahjong_settings_board_8"
+msgstr "네 개의 다리들"
+
+msgid "sfil_va_save_object_name_stub_chess"
+msgstr "체스"
+
+msgid "sfil_va_select_object_no_objects_games"
+msgstr "(게임 없음)"
