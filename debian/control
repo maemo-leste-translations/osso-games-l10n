@@ -9,18 +9,87 @@ Package: osso-games-l10n-mr0
 Section: misc
 Architecture: all
 Provides: osso-games-l10n-mr
-Depends: osso-games-l10n-ruru, osso-games-l10n-frfr, osso-games-l10n-frca, osso-games-l10n-dadk, osso-games-l10n-itit, osso-games-l10n-svse, osso-games-l10n-nono, osso-games-l10n-fifi, osso-games-l10n-nlnl, osso-games-l10n-enus, osso-games-l10n-dede, osso-games-l10n-esmx, osso-games-l10n-eses, osso-games-l10n-cscz, osso-games-l10n-ptpt, osso-games-l10n-engb, osso-games-l10n-plpl
-Description: osso-games marketing release package
- This is a metapackage for osso-games to pull all the l10n packages.
- Application developers of osso-games should depend on
+Depends:
+ osso-games-l10n-zhtw,
+ osso-games-l10n-zhhk,
+ osso-games-l10n-zhcn,
+ osso-games-l10n-ukua,
+ osso-games-l10n-trtr,
+ osso-games-l10n-svse,
+ osso-games-l10n-sksk,
+ osso-games-l10n-ruru,
+ osso-games-l10n-roro,
+ osso-games-l10n-ptpt,
+ osso-games-l10n-plpl,
+ osso-games-l10n-pa,
+ osso-games-l10n-nono,
+ osso-games-l10n-nlnl,
+ osso-games-l10n-mymm,
+ osso-games-l10n-lvlv,
+ osso-games-l10n-ko,
+ osso-games-l10n-km,
+ osso-games-l10n-itit,
+ osso-games-l10n-huhu,
+ osso-games-l10n-heil,
+ osso-games-l10n-frfr,
+ osso-games-l10n-frca,
+ osso-games-l10n-fifi,
+ osso-games-l10n-fa,
+ osso-games-l10n-etee,
+ osso-games-l10n-esmx,
+ osso-games-l10n-eses,
+ osso-games-l10n-enus,
+ osso-games-l10n-engb,
+ osso-games-l10n-elgr,
+ osso-games-l10n-dede,
+ osso-games-l10n-dadk,
+ osso-games-l10n-cy,
+ osso-games-l10n-cscz,
+ osso-games-l10n-caes,
+ osso-games-l10n-bgbg,
+ osso-games-l10n-beby,
+ osso-games-l10n-ar,
+Description: osso-games-l10n marketing release package
+ This is a metapackage for osso-games-l10n to pull all the l10n packages.
+ Application developers of osso-games-l10n should depend on
  "osso-games-l10n-mr0 | osso-games-l10n-mr"
  to ensure correct locales are getting installed.
+
+Package: osso-games-l10n-ar
+Section: misc
+Architecture: all
+Description: language files for osso-games (ar)
+ Language files for ar osso-games.
+
+Package: osso-games-l10n-beby
+Section: misc
+Architecture: all
+Description: language files for osso-games (be_BY)
+ Language files for be_BY osso-games.
+
+Package: osso-games-l10n-bgbg
+Section: misc
+Architecture: all
+Description: language files for osso-games (bg_BG)
+ Language files for bg_BG osso-games.
+
+Package: osso-games-l10n-caes
+Section: misc
+Architecture: all
+Description: language files for osso-games (ca_ES)
+ Language files for ca_ES osso-games.
 
 Package: osso-games-l10n-cscz
 Section: misc
 Architecture: all
 Description: language files for osso-games (cs_CZ)
  Language files for cs_CZ osso-games.
+
+Package: osso-games-l10n-cy
+Section: misc
+Architecture: all
+Description: language files for osso-games (cy)
+ Language files for cy osso-games.
 
 Package: osso-games-l10n-dadk
 Section: misc
@@ -33,6 +102,12 @@ Section: misc
 Architecture: all
 Description: language files for osso-games (de_DE)
  Language files for de_DE osso-games.
+
+Package: osso-games-l10n-elgr
+Section: misc
+Architecture: all
+Description: language files for osso-games (el_GR)
+ Language files for el_GR osso-games.
 
 Package: osso-games-l10n-engb
 Section: misc
@@ -58,6 +133,18 @@ Architecture: all
 Description: language files for osso-games (es_MX)
  Language files for es_MX osso-games.
 
+Package: osso-games-l10n-etee
+Section: misc
+Architecture: all
+Description: language files for osso-games (et_EE)
+ Language files for et_EE osso-games.
+
+Package: osso-games-l10n-fa
+Section: misc
+Architecture: all
+Description: language files for osso-games (fa)
+ Language files for fa osso-games.
+
 Package: osso-games-l10n-fifi
 Section: misc
 Architecture: all
@@ -76,11 +163,47 @@ Architecture: all
 Description: language files for osso-games (fr_FR)
  Language files for fr_FR osso-games.
 
+Package: osso-games-l10n-heil
+Section: misc
+Architecture: all
+Description: language files for osso-games (he_IL)
+ Language files for he_IL osso-games.
+
+Package: osso-games-l10n-huhu
+Section: misc
+Architecture: all
+Description: language files for osso-games (hu_HU)
+ Language files for hu_HU osso-games.
+
 Package: osso-games-l10n-itit
 Section: misc
 Architecture: all
 Description: language files for osso-games (it_IT)
  Language files for it_IT osso-games.
+
+Package: osso-games-l10n-km
+Section: misc
+Architecture: all
+Description: language files for osso-games (km)
+ Language files for km osso-games.
+
+Package: osso-games-l10n-ko
+Section: misc
+Architecture: all
+Description: language files for osso-games (ko)
+ Language files for ko osso-games.
+
+Package: osso-games-l10n-lvlv
+Section: misc
+Architecture: all
+Description: language files for osso-games (lv_LV)
+ Language files for lv_LV osso-games.
+
+Package: osso-games-l10n-mymm
+Section: misc
+Architecture: all
+Description: language files for osso-games (my_MM)
+ Language files for my_MM osso-games.
 
 Package: osso-games-l10n-nlnl
 Section: misc
@@ -94,6 +217,12 @@ Architecture: all
 Description: language files for osso-games (no_NO)
  Language files for no_NO osso-games.
 
+Package: osso-games-l10n-pa
+Section: misc
+Architecture: all
+Description: language files for osso-games (pa)
+ Language files for pa osso-games.
+
 Package: osso-games-l10n-plpl
 Section: misc
 Architecture: all
@@ -106,14 +235,56 @@ Architecture: all
 Description: language files for osso-games (pt_PT)
  Language files for pt_PT osso-games.
 
+Package: osso-games-l10n-roro
+Section: misc
+Architecture: all
+Description: language files for osso-games (ro_RO)
+ Language files for ro_RO osso-games.
+
 Package: osso-games-l10n-ruru
 Section: misc
 Architecture: all
 Description: language files for osso-games (ru_RU)
  Language files for ru_RU osso-games.
 
+Package: osso-games-l10n-sksk
+Section: misc
+Architecture: all
+Description: language files for osso-games (sk_SK)
+ Language files for sk_SK osso-games.
+
 Package: osso-games-l10n-svse
 Section: misc
 Architecture: all
 Description: language files for osso-games (sv_SE)
  Language files for sv_SE osso-games.
+
+Package: osso-games-l10n-trtr
+Section: misc
+Architecture: all
+Description: language files for osso-games (tr_TR)
+ Language files for tr_TR osso-games.
+
+Package: osso-games-l10n-ukua
+Section: misc
+Architecture: all
+Description: language files for osso-games (uk_UA)
+ Language files for uk_UA osso-games.
+
+Package: osso-games-l10n-zhcn
+Section: misc
+Architecture: all
+Description: language files for osso-games (zh_CN)
+ Language files for zh_CN osso-games.
+
+Package: osso-games-l10n-zhhk
+Section: misc
+Architecture: all
+Description: language files for osso-games (zh_HK)
+ Language files for zh_HK osso-games.
+
+Package: osso-games-l10n-zhtw
+Section: misc
+Architecture: all
+Description: language files for osso-games (zh_TW)
+ Language files for zh_TW osso-games.
