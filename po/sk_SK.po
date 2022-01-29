@@ -3,20 +3,23 @@ msgstr ""
 "Project-Id-Version: osso-games 20090202110755\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.02.02 11:07+0200\n"
-"PO-Revision-Date: 2009-10-23 09:38+0200\n"
-"Last-Translator:\n"
-"Language-Team: sk_SK\n"
+"PO-Revision-Date: 2022-01-30 12:52+0000\n"
+"Last-Translator: Iva Byvalcová <iveta.cvejnova11@gmail.com>\n"
+"Language-Team: Slovak <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-games-l10n/sk/>\n"
+"Language: sk_SK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
-"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.11-dev\n"
 
 msgid "game_ap_blocks_name"
-msgstr "Kocky"
+msgstr "Bloky"
 
+#, fuzzy
 msgid "game_ap_chess_name"
-msgstr "Šachy"
+msgstr "Šach"
 
 msgid "game_ap_mahjong_name"
 msgstr "Mahjong"
@@ -78,8 +81,9 @@ msgstr "Hrať"
 msgid "game_bv_startup_restart"
 msgstr "Reštartovať"
 
+#, fuzzy
 msgid "game_fi_blocks_end_game_description"
-msgstr "Klepnutím na „Reštartovať“ zahájite novú hru"
+msgstr "Skúste to znovu klepnutím na „Reštartovať“"
 
 msgid "game_fi_blocks_main_level"
 msgstr "Úroveň"
@@ -87,8 +91,9 @@ msgstr "Úroveň"
 msgid "game_fi_blocks_main_lines"
 msgstr "Riadky"
 
+#, fuzzy
 msgid "game_fi_blocks_main_next"
-msgstr "Nasledujúca"
+msgstr "Nasledujúci"
 
 msgid "game_fi_blocks_main_score"
 msgstr "Skóre"
@@ -117,8 +122,9 @@ msgstr "Hráč 1"
 msgid "game_fi_chess_player_2_title"
 msgstr "Hráč 2"
 
+#, fuzzy
 msgid "game_fi_chess_promote_pawn_description"
-msgstr "Podporovať k:"
+msgstr "Povýšiť na:"
 
 msgid "game_fi_chess_settings_human"
 msgstr "Hráč 1"
@@ -138,8 +144,9 @@ msgstr "Hru ste úspešne dokončili!"
 msgid "game_fi_lmarbles_main_chapter_level"
 msgstr "Kapitola %d, Úroveň %d"
 
+#, fuzzy
 msgid "game_fi_lmarbles_main_high_score"
-msgstr "Rekord: %d"
+msgstr "Najvyššie skóre : %d"
 
 msgid "game_fi_lmarbles_main_level_bonus"
 msgstr "Bonus úrovne:"
@@ -162,12 +169,12 @@ msgstr "Úroveň obtiažnosti"
 msgid "game_fi_lmarbles_settings_sound"
 msgstr "Zvukové efekty"
 
+#, fuzzy
 msgid "game_fi_mahjong_end_game_description%s%.2d%.2d%.2d%.2d"
 msgstr ""
 "Hracia plocha: %s\n"
 "Hra dokončená za %.2d:%.2d\n"
-"\n"
-"Rekord hracej polochy: %.2d:%.2d"
+"Najlepší čas hracej polochy: %.2d:%.2d"
 
 msgid "game_fi_mahjong_end_game_description2%s%.2d%.2d%.2d%.2d"
 msgstr ""
@@ -196,8 +203,9 @@ msgstr "Zmätený kríž"
 msgid "game_fi_mahjong_game_board_4"
 msgstr "Steny pyramíd"
 
+#, fuzzy
 msgid "game_fi_mahjong_game_board_5"
-msgstr "Piškôrky"
+msgstr "Piškvorky"
 
 msgid "game_fi_mahjong_game_board_6"
 msgstr "Mrak"
