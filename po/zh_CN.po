@@ -3,16 +3,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: n900 extra translations\n"
-"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
+"issues/list\n"
 "POT-Creation-Date: 2009.02.02 11:07+0200\n"
-"PO-Revision-Date: 2010-11-30 11:45+0000\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2025-02-06 22:01+0000\n"
+"Last-Translator: coio <ddllkl@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/maemo-leste/osso-games-l10n/zh_Hans/>\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "game_ap_blocks_name"
 msgstr "俄罗斯方块"
@@ -30,16 +33,16 @@ msgid "game_ap_startup_name"
 msgstr "启动"
 
 msgid "game_bd_blocks_main_exit_to_menu"
-msgstr "Exit to menu"
+msgstr "退出到菜单"
 
 msgid "game_bd_blocks_main_restart"
-msgstr "Restart"
+msgstr "重新开始"
 
 msgid "game_bd_change_level_cancel"
-msgstr "No"
+msgstr "否"
 
 msgid "game_bd_change_level_ok"
-msgstr "Yes"
+msgstr "是"
 
 msgid "game_bd_chess_end_game_ok"
 msgstr "确定"
@@ -81,13 +84,13 @@ msgid "game_bv_startup_restart"
 msgstr "重新开始"
 
 msgid "game_fi_blocks_end_game_description"
-msgstr "Tap 'Restart' to try again"
+msgstr "点击 '重新开始' 再来一次吧"
 
 msgid "game_fi_blocks_main_level"
 msgstr "Level"
 
 msgid "game_fi_blocks_main_lines"
-msgstr "Lines"
+msgstr "线条"
 
 msgid "game_fi_blocks_main_next"
 msgstr "Next"
@@ -99,10 +102,10 @@ msgid "game_fi_blocks_settings_difficulty"
 msgstr "方块下落速度"
 
 msgid "game_fi_blocks_settings_noise_height"
-msgstr "开始时的方块高度:"
+msgstr "初始方块高度"
 
 msgid "game_fi_blocks_settings_noise_level"
-msgstr "开始时的方块密度"
+msgstr "初始方块密度"
 
 msgid "game_fi_chess_computer_title"
 msgstr "电脑"
@@ -135,28 +138,28 @@ msgid "game_fi_chess_settings_sound"
 msgstr "音效"
 
 msgid "game_fi_lmarbles_congratulations_description"
-msgstr "You have successfully completed the game!"
+msgstr "你成功完成了游戏！"
 
 msgid "game_fi_lmarbles_main_chapter_level"
-msgstr "Chapter %d, Level %d"
+msgstr "第 %d 章, 第 %d 级"
 
 msgid "game_fi_lmarbles_main_high_score"
-msgstr "High score: %d"
+msgstr "最高分: %d"
 
 msgid "game_fi_lmarbles_main_level_bonus"
-msgstr "Level bonus:"
+msgstr "级别奖励:"
 
 msgid "game_fi_lmarbles_main_move_bonus"
-msgstr "Move bonus:"
+msgstr "移动奖励:"
 
 msgid "game_fi_lmarbles_main_moves"
-msgstr "Moves: %d"
+msgstr "步数：%d"
 
 msgid "game_fi_lmarbles_main_score"
-msgstr "Score: %d"
+msgstr "得分: %d"
 
 msgid "game_fi_lmarbles_main_total_score"
-msgstr "Total score:"
+msgstr "总得分:"
 
 msgid "game_fi_lmarbles_settings_difficulty"
 msgstr "游戏难度"
@@ -264,7 +267,7 @@ msgid "game_me_chess_menu_settings_human_white"
 msgstr "白"
 
 msgid "game_me_chess_menu_settings_legal_moves"
-msgstr "显示游戏规则"
+msgstr "显示允许的移动"
 
 msgid "game_me_chess_menu_settings_opponent"
 msgstr "难度"
@@ -372,16 +375,18 @@ msgid "game_me_main_menu_close"
 msgstr "关闭"
 
 msgid "game_nc_change_level"
-msgstr "Enter level %d of chapter %d?"
+msgstr "进入第 %d 关 - 第%d章?"
 
 msgid "game_nc_reset_game_progress"
-msgstr "Resetting the game will close all opened levels. Continue anyway?"
+msgstr "重置游戏会关闭所有已打开的关卡。继续？"
 
 msgid "game_nc_restart_game"
-msgstr "Start new game?"
+msgstr "开始新的游戏？"
 
 msgid "game_ni_unsupported_file%s"
-msgstr "无法打开文件格式不支持."
+msgstr ""
+"无法打开%s\n"
+"文件格式不支持."
 
 msgid "game_ti_blocks_end_game_title"
 msgstr "Game over"
@@ -393,7 +398,7 @@ msgid "game_ti_chess_promote_pawn_title"
 msgstr "兵卒提升"
 
 msgid "game_ti_lmarbles_congratulations_title"
-msgstr "Congratulations!"
+msgstr "恭喜你!"
 
 msgid "game_ti_load_game_title"
 msgstr "载入游戏"

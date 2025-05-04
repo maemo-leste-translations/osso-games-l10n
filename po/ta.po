@@ -1,0 +1,496 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-games 20090202110755\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2009.02.02 11:07+0200\n"
+"PO-Revision-Date: 2025-01-19 14:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-games-l10n/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
+
+msgid "game_ap_blocks_name"
+msgstr "தொகுதிகள்"
+
+msgid "game_ap_chess_name"
+msgstr "சதுரங்கம்"
+
+msgid "game_ap_mahjong_name"
+msgstr "மஅ்சோங்"
+
+msgid "game_ap_marbles_name"
+msgstr "பளிங்கு"
+
+msgid "game_ap_startup_name"
+msgstr "தொடக்க"
+
+msgid "game_bd_blocks_main_exit_to_menu"
+msgstr "மெனுவுக்கு வெளியேறவும்"
+
+msgid "game_bd_blocks_main_restart"
+msgstr "மறுதொடக்கம்"
+
+msgid "game_bd_change_level_cancel"
+msgstr "இல்லை"
+
+msgid "game_bd_change_level_ok"
+msgstr "ஆம்"
+
+msgid "game_bd_chess_end_game_ok"
+msgstr "சரி"
+
+msgid "game_bd_chess_promote_pawn_ok"
+msgstr "சரி"
+
+msgid "game_bd_lmarbles_congratulations_ok"
+msgstr "சரி"
+
+msgid "game_bd_mahjong_end_game_ok"
+msgstr "சரி"
+
+msgid "game_bd_mahjong_high_scores_close"
+msgstr "மூடு"
+
+msgid "game_bd_reset_game_progress_cancel"
+msgstr "இல்லை"
+
+msgid "game_bd_reset_game_progress_ok"
+msgstr "ஆம்"
+
+msgid "game_bd_restart_game_cancel"
+msgstr "இல்லை"
+
+msgid "game_bd_restart_game_ok"
+msgstr "ஆம்"
+
+msgid "game_bu_mahjong_settings_high_scores"
+msgstr "சிறந்த நேரங்கள்"
+
+msgid "game_bv_startup_continue"
+msgstr "தொடரவும்"
+
+msgid "game_bv_startup_play"
+msgstr "விளையாடுங்கள்"
+
+msgid "game_bv_startup_restart"
+msgstr "மறுதொடக்கம்"
+
+msgid "game_fi_blocks_end_game_description"
+msgstr "மீண்டும் முயற்சிக்க 'மறுதொடக்கம்' என்பதைத் தட்டவும்"
+
+msgid "game_fi_blocks_main_level"
+msgstr "நிலை"
+
+msgid "game_fi_blocks_main_lines"
+msgstr "வரிகள்"
+
+msgid "game_fi_blocks_main_next"
+msgstr "அடுத்தது"
+
+msgid "game_fi_blocks_main_score"
+msgstr "கெலிப்பெண்"
+
+msgid "game_fi_blocks_settings_difficulty"
+msgstr "தொகுதி விரைவு"
+
+msgid "game_fi_blocks_settings_noise_height"
+msgstr "தொடக்க உயரம்"
+
+msgid "game_fi_blocks_settings_noise_level"
+msgstr "தொடக்க அடர்த்தி"
+
+msgid "game_fi_chess_computer_title"
+msgstr "கணிப்பொறி, கணிணி"
+
+msgid "game_fi_chess_end_game_description%s"
+msgstr "செக்மேட் - %s வெற்றிகள்!"
+
+msgid "game_fi_chess_end_game_tie_description"
+msgstr "முட்டுக்கட்டை - விளையாட்டு வரையப்பட்டது"
+
+msgid "game_fi_chess_player_1_title"
+msgstr "பிளேயர் 1"
+
+msgid "game_fi_chess_player_2_title"
+msgstr "பிளேயர் 2"
+
+msgid "game_fi_chess_promote_pawn_description"
+msgstr "இதை ஊக்குவிக்கவும்:"
+
+msgid "game_fi_chess_settings_human"
+msgstr "பிளேயர் 1"
+
+msgid "game_fi_chess_settings_legal_moves"
+msgstr "சட்ட நகர்வுகளைக் காட்டு"
+
+msgid "game_fi_chess_settings_opponent"
+msgstr "எதிரி"
+
+msgid "game_fi_chess_settings_sound"
+msgstr "ஒலி விளைவுகள்"
+
+msgid "game_fi_lmarbles_congratulations_description"
+msgstr "நீங்கள் வெற்றிகரமாக விளையாட்டை முடித்துவிட்டீர்கள்!"
+
+msgid "game_fi_lmarbles_main_chapter_level"
+msgstr "அத்தியாயம் %d, நிலை %d"
+
+msgid "game_fi_lmarbles_main_high_score"
+msgstr "அதிக மதிப்பெண்: %d"
+
+msgid "game_fi_lmarbles_main_level_bonus"
+msgstr "நிலை போனச்:"
+
+msgid "game_fi_lmarbles_main_move_bonus"
+msgstr "போனசை நகர்த்தவும்:"
+
+msgid "game_fi_lmarbles_main_moves"
+msgstr "நகர்வுகள்: %d"
+
+msgid "game_fi_lmarbles_main_score"
+msgstr "ச்கோர்: %d"
+
+msgid "game_fi_lmarbles_main_total_score"
+msgstr "மொத்த மதிப்பெண்:"
+
+msgid "game_fi_lmarbles_settings_difficulty"
+msgstr "தொல்லை நிலை"
+
+msgid "game_fi_lmarbles_settings_sound"
+msgstr "ஒலி விளைவுகள்"
+
+msgid "game_fi_mahjong_end_game_description%s%.2d%.2d%.2d%.2d"
+msgstr ""
+"பலகை: %s\n"
+" வாரியம் %.2 டி: %. 2 டி\n"
+"\n"
+" போர்டுக்கு சிறந்த நேரம்: %.2 டி: %. 2 டி"
+
+msgid "game_fi_mahjong_end_game_description2%s%.2d%.2d%.2d%.2d"
+msgstr ""
+"பலகை: %s\n"
+" வாரியம் %.2 டி: %. 2 டி\n"
+"\n"
+" புதிய தனிப்பட்ட சிறந்தது!\n"
+" முந்தைய சிறந்தது: %.2 டி: %. 2 டி"
+
+msgid "game_fi_mahjong_end_game_description3%s%.2d%.2d"
+msgstr ""
+"பலகை: %s\n"
+" வாரியம் %.2 டி: %. 2 டி\n"
+"\n"
+" புதிய தனிப்பட்ட சிறந்தது!"
+
+msgid "game_fi_mahjong_game_board_1"
+msgstr "தரநிலை"
+
+msgid "game_fi_mahjong_game_board_2"
+msgstr "தாமரை மலர்"
+
+msgid "game_fi_mahjong_game_board_3"
+msgstr "குழப்பமான குறுக்கு"
+
+msgid "game_fi_mahjong_game_board_4"
+msgstr "பிரமிட்டின் சுவர்கள்"
+
+msgid "game_fi_mahjong_game_board_5"
+msgstr "டிக்-டாக்-டோ"
+
+msgid "game_fi_mahjong_game_board_6"
+msgstr "முகில்"
+
+msgid "game_fi_mahjong_game_board_7"
+msgstr "ரெட் டிராகன்"
+
+msgid "game_fi_mahjong_game_board_8"
+msgstr "நான்கு பாலங்கள்"
+
+msgid "game_fi_mahjong_settings_board"
+msgstr "பலகை"
+
+msgid "game_fi_mahjong_settings_sound"
+msgstr "ஒலி விளைவுகள்"
+
+msgid "game_ia_startup_not_started"
+msgstr "விளையாட்டு இன்னும் தொடங்கப்படவில்லை"
+
+msgid "game_ia_startup_paused"
+msgstr "விளையாட்டு இடைநிறுத்தப்பட்டது"
+
+msgid "game_ib_changes_effect_next_game"
+msgstr "அடுத்த விளையாட்டுக்கு மாற்றங்கள் நடைமுறைக்கு வரும்"
+
+msgid "game_ib_chess_check"
+msgstr "சரிபார்!"
+
+msgid "game_ib_chess_check_mate"
+msgstr "செக்மேட்!"
+
+msgid "game_ib_not_available"
+msgstr "கிடைக்கவில்லை"
+
+msgid "game_me_blocks_main_menu_game"
+msgstr "விளையாட்டு"
+
+msgid "game_me_blocks_menu_game_play"
+msgstr "விளையாடுங்கள்"
+
+msgid "game_me_blocks_menu_game_restart"
+msgstr "மறுதொடக்கம்"
+
+msgid "game_me_chess_main_menu_game"
+msgstr "விளையாட்டு"
+
+msgid "game_me_chess_main_menu_recent"
+msgstr "அண்மைக் கால"
+
+msgid "game_me_chess_main_menu_settings"
+msgstr "அமைப்புகள்"
+
+msgid "game_me_chess_menu_game_open"
+msgstr "திற"
+
+msgid "game_me_chess_menu_game_play"
+msgstr "விளையாடுங்கள்"
+
+msgid "game_me_chess_menu_game_restart"
+msgstr "மறுதொடக்கம்"
+
+msgid "game_me_chess_menu_game_save"
+msgstr "சேமி"
+
+msgid "game_me_chess_menu_game_save_as"
+msgstr "என சேமி"
+
+msgid "game_me_chess_menu_settings_human"
+msgstr "பிளேயர் 1"
+
+msgid "game_me_chess_menu_settings_human_black"
+msgstr "கருப்பு"
+
+msgid "game_me_chess_menu_settings_human_white"
+msgstr "வெள்ளை"
+
+msgid "game_me_chess_menu_settings_legal_moves"
+msgstr "சட்ட நகர்வுகளைக் காட்டு"
+
+msgid "game_me_chess_menu_settings_opponent"
+msgstr "எதிரி"
+
+msgid "game_me_chess_menu_settings_opponent_1"
+msgstr "எளிதானது"
+
+msgid "game_me_chess_menu_settings_opponent_2"
+msgstr "சராசரி"
+
+msgid "game_me_chess_menu_settings_opponent_3"
+msgstr "மேம்பட்ட"
+
+msgid "game_me_chess_menu_settings_opponent_4"
+msgstr "வல்லுநர்"
+
+msgid "game_me_chess_menu_settings_opponent_human"
+msgstr "பிளேயர் 2"
+
+msgid "game_me_chess_menu_settings_sound"
+msgstr "ஒலி"
+
+msgid "game_me_lmarbles_main_menu_game"
+msgstr "விளையாட்டு"
+
+msgid "game_me_lmarbles_main_menu_settings"
+msgstr "அமைப்புகள்"
+
+msgid "game_me_lmarbles_menu_game_play"
+msgstr "விளையாடுங்கள்"
+
+msgid "game_me_lmarbles_menu_game_restart"
+msgstr "மறுதொடக்கம்"
+
+msgid "game_me_lmarbles_menu_settings_brainstorm"
+msgstr "மூளை புயல்"
+
+msgid "game_me_lmarbles_menu_settings_easy"
+msgstr "எளிதானது"
+
+msgid "game_me_lmarbles_menu_settings_hard"
+msgstr "மேம்பட்ட"
+
+msgid "game_me_lmarbles_menu_settings_normal"
+msgstr "சாதாரண"
+
+msgid "game_me_lmarbles_menu_settings_reset"
+msgstr "மீட்டமை"
+
+msgid "game_me_lmarbles_menu_settings_reset_progress"
+msgstr "விளையாட்டு முன்னேற்றத்தை மீட்டமைக்கவும்"
+
+msgid "game_me_lmarbles_menu_settings_sound"
+msgstr "ஒலி"
+
+msgid "game_me_mahjong_main_menu_board"
+msgstr "பலகை"
+
+msgid "game_me_mahjong_main_menu_game"
+msgstr "விளையாட்டு"
+
+msgid "game_me_mahjong_main_menu_settings"
+msgstr "அமைப்புகள்"
+
+msgid "game_me_mahjong_main_menu_tools"
+msgstr "கருவிகள்"
+
+msgid "game_me_mahjong_menu_board_1"
+msgstr "தரநிலை"
+
+msgid "game_me_mahjong_menu_board_2"
+msgstr "தாமரை மலர்"
+
+msgid "game_me_mahjong_menu_board_3"
+msgstr "குழப்பமான குறுக்கு"
+
+msgid "game_me_mahjong_menu_board_4"
+msgstr "பிரமிட்டின் சுவர்கள்"
+
+msgid "game_me_mahjong_menu_board_5"
+msgstr "டிக்-டாக்-டோ"
+
+msgid "game_me_mahjong_menu_board_6"
+msgstr "முகில்"
+
+msgid "game_me_mahjong_menu_board_7"
+msgstr "ரெட் டிராகன்"
+
+msgid "game_me_mahjong_menu_board_8"
+msgstr "நான்கு பாலங்கள்"
+
+msgid "game_me_mahjong_menu_game_play"
+msgstr "விளையாடுங்கள்"
+
+msgid "game_me_mahjong_menu_game_restart"
+msgstr "மறுதொடக்கம்"
+
+msgid "game_me_mahjong_menu_settings_sound"
+msgstr "ஒலி"
+
+msgid "game_me_mahjong_menu_tools_high_scores"
+msgstr "சிறந்த நேரங்கள்"
+
+msgid "game_me_main_menu_close"
+msgstr "மூடு"
+
+msgid "game_nc_change_level"
+msgstr "அத்தியாயம் %d இன் நிலை %d ஐ உள்ளிடவா?"
+
+msgid "game_nc_reset_game_progress"
+msgstr ""
+"விளையாட்டை மீட்டமைப்பது அனைத்து திறந்த நிலைகளையும் மூடிவிடும். எப்படியும் தொடரவா?"
+
+msgid "game_nc_restart_game"
+msgstr "புதிய விளையாட்டைத் தொடங்கவா?"
+
+msgid "game_ni_unsupported_file%s"
+msgstr ""
+"%s ஐ திறக்க முடியவில்லை.\n"
+" கோப்பு வடிவம் ஆதரிக்கப்படவில்லை."
+
+msgid "game_ti_blocks_end_game_title"
+msgstr "விளையாட்டு ஓவர்"
+
+msgid "game_ti_chess_end_game_title"
+msgstr "விளையாட்டு ஓவர்"
+
+msgid "game_ti_chess_promote_pawn_title"
+msgstr "பான் ஊக்குவிக்கவும்"
+
+msgid "game_ti_lmarbles_congratulations_title"
+msgstr "வாழ்த்துக்கள்!"
+
+msgid "game_ti_load_game_title"
+msgstr "விளையாட்டு சுமை"
+
+msgid "game_ti_mahjong_end_game_title"
+msgstr "விளையாட்டு ஓவர்"
+
+msgid "game_ti_mahjong_high_scores_date"
+msgstr "திகதி"
+
+msgid "game_ti_mahjong_high_scores_level"
+msgstr "பலகை"
+
+msgid "game_ti_mahjong_high_scores_time"
+msgstr "சிறந்த நேரம்"
+
+msgid "game_ti_mahjong_high_scores_title"
+msgstr "சிறந்த நேரங்கள்"
+
+msgid "game_ti_save_game_title"
+msgstr "விளையாட்டைச் சேமிக்கவும்"
+
+msgid "game_va_chess_settings_human_black"
+msgstr "கருப்பு"
+
+msgid "game_va_chess_settings_human_white"
+msgstr "வெள்ளை"
+
+msgid "game_va_chess_settings_opponent_easy"
+msgstr "எளிதானது"
+
+msgid "game_va_chess_settings_opponent_expert"
+msgstr "வல்லுநர்"
+
+msgid "game_va_chess_settings_opponent_hard"
+msgstr "மேம்பட்ட"
+
+msgid "game_va_chess_settings_opponent_human"
+msgstr "பிளேயர் 2"
+
+msgid "game_va_chess_settings_opponent_medium"
+msgstr "சராசரி"
+
+msgid "game_va_lmarbles_settings_difficulty_1"
+msgstr "எளிதானது"
+
+msgid "game_va_lmarbles_settings_difficulty_2"
+msgstr "சாதாரண"
+
+msgid "game_va_lmarbles_settings_difficulty_3"
+msgstr "மேம்பட்ட"
+
+msgid "game_va_lmarbles_settings_difficulty_4"
+msgstr "மூளை புயல்"
+
+msgid "game_va_mahjong_settings_board_1"
+msgstr "தரநிலை"
+
+msgid "game_va_mahjong_settings_board_2"
+msgstr "தாமரை மலர்"
+
+msgid "game_va_mahjong_settings_board_3"
+msgstr "குழப்பமான குறுக்கு"
+
+msgid "game_va_mahjong_settings_board_4"
+msgstr "பிரமிட்டின் சுவர்கள்"
+
+msgid "game_va_mahjong_settings_board_5"
+msgstr "டிக்-டாக்-டோ"
+
+msgid "game_va_mahjong_settings_board_6"
+msgstr "முகில்"
+
+msgid "game_va_mahjong_settings_board_7"
+msgstr "ரெட் டிராகன்"
+
+msgid "game_va_mahjong_settings_board_8"
+msgstr "நான்கு பாலங்கள்"
+
+msgid "sfil_va_save_object_name_stub_chess"
+msgstr "சதுரங்கம்"
+
+msgid "sfil_va_select_object_no_objects_games"
+msgstr "(விளையாட்டுகள் இல்லை)"
